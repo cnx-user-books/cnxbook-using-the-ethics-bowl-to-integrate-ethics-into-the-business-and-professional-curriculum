@@ -1,0 +1,245 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+	<title>Ethics of Teamwork</title>
+	<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m13760</md:content-id>
+  <md:title>Ethics of Teamwork</md:title>
+  <md:abstract>This module developed for classes in Engineering and Computer Ethics at UPRM employs a value/virtue approach to encourage students to reflect on the ethical issues and problems that arise in group or team work.  Throughout the class, students are given group assignments for which they receive group grades that are distributed to each individual member.  The module then provides students with ethical goals to grade them as they execute these assignments.  Student groups develop strategies for realizing these goals.  They also envision pitfalls that often prevent groups from working cooperatively such as the Abilene Paradox, groupthink, and group polarization.  Finally, students develop an assessment process based on these goals that they use to complete a group self-evaluation at the end of the semester.  The primary purpose of this module is to use group work and cooperative learning as an occasion to reflect on the different ethical issues and problems that arise in collective activity. This module is being developed as a part of an NSF-funded project, "Collaborative Development of Ethics Across the Curriculum Resources and Sharing of Best Practices," NSF SES 0551779.</md:abstract>
+  <md:uuid>ed18758c-1019-4a66-afaa-e07d7ca2e09c</md:uuid>
+</metadata>
+
+<content>
+		<list id="element-728" list-type="bulleted"><item>Ethics of Team Work</item>
+			<item>William J. Frey (working with material developed by Chuck Huff at St. Olaf College</item>
+			<item>Centro de la Etica en las Profesiones</item>
+			<item>University of Puerto Rico - Mayaguez</item></list>
+		<section id="ModInt">
+			<title>Module Introduction</title>
+			<para id="id6970039">
+Much of your future work will be organized around group or team activities.  This module is designed to prepare you for this by getting you to reflect on ethical and practical problems that arise in small groups like work teams.  Four issues, based on well-known ethical values, are especially important.  How do groups achieve justice (in the distribution of work), responsibility (in specifying tasks, assigning blame, and awarding credit), reasonableness (ensuring participation, resolving conflict, and reaching consensus), and honesty (avoiding deception, corruption, and impropriety)?  This module asks that you develop plans for realizing these moral values in your group work this semester.  Furthermore, you are provided with a list of some of the more common pitfalls of group work and then asked to devise strategies for avoiding them.  Finally, at the end of the semester, you will review your goals and strategies, reflect on your successes and problems, and carry out an overall assessment of the experience.  </para>
+		</section>
+		<section id="ModAct"><title>Module Activities</title>
+			<list id="element-519" list-type="enumerated">
+				<item>Groups are provided with key ethical values that they describe and seek to realize thorugh group activity.</item>
+				<item>Groups also study various obstacles that arise in collective activity: the Abilene Paradox, Groupthink, and Group Polarization.</item>
+				<item>Groups prepare initial reports consisting of plans for realizing key values in their collective activity.  They also develop strategies for avoiding associated obstacles.</item>
+				<item>At the end of the semester, groups prepare a self-evaluation that assesses success in realizing ethical values and avoiding obstacles.</item>
+				<item>Textboxes in this module describe pitfalls in groups activities and offer general strategies for preventing or mitigating them.  There is also a textbox that provides an introductory orientation on key ethical values or virtues.</item></list>
+		</section>
+		<section id="eip-681"><title>A Framework for Value-Integration</title><para id="eip-159">
+The objective of this module is to teach you to teach yourselves how to work in small groups.  You will develop and test procedures for realizing value goals and avoiding group pitfalls.  You will also use Socio-Technical System Analysis to help you understand better how to take advantage of the way in which different environments enable groups activities and to anticipate and minimize the way in which other environments can constrain or even oppose group activities.
+</para><list id="eip-820"><item><emphasis>Discovery</emphasis>: "The goal of this activity is to 'discover' the values that are relevant to, inspire, or inform a given design project, resulting in a list of values and bringing into focus what is often implicit in a design project." [Flanagan et al. 323].  Discovery of group values is a trial and error process.  To get started, use the ADEM Statement of Values or the short value profiles listed below.</item>
+<item><emphasis>Translation</emphasis>: "[T]ranslation is the activity of embodying or expressing...values in a system design.  Translation is further divided into operationalization, which involves defining or articulating values in concrete terms, and implementation which involves specifying corresponding design features" [Flanagan et al., 338].  You will operationalize your values by developing profiles.  (See below or the ADEM Statement of Values for examples.)  Then you will implement your values by developing realization procedures.  For example, to realize justice in carrying out a group task, first we will discuss the task as a group, second we will divide it into equal parts, third, forth, etc.</item>
+<item><emphasis>Verification</emphasis>: "In the activity of verification, designers assess to what extent they have successfully implemented target values in a given system.  [Strategies and methods] may include internal testing among the design team, user testing in controlled environments, formal and informal interviews and surveys, the use of prototypes, traditional quality assurance measures such as automated and regression-oriented testing and more" [Flanagan et al., 344-5].  You will document your procedures in the face of different obstacles that may arise in your efforts at value-realization.  At the end of your semester, you will verify your results by showing how you have refined procedures to more effectively realize values.</item></list><para id="eip-23">The framework on value realization and the above-quoted passages can be found in the following resource: M. Flanagan, D. Howe, and H. Nissenbaum, “Embodying Values in Technology: Theory and Practice,” in <emphasis>Information Technology and Moral Philosophy</emphasis>, Jeroen van den Hoven and John Weckert, Eds. Cambridge, UK: Cambridge University Press, 2008, pp. 322-353.</para></section><section id="ValProf">
+			<title>Value Profiles for Professional Ethics</title>
+			<list id="element-357" list-type="enumerated"><item>Definition - A <emphasis>value</emphasis> "refers to a claim about what is worthwhile, what is good.  A value is a single word or phrase that identifies something as being desirable for human beings."  Brincat and Wike, Morality and the Professional Life: Values at Work</item>
+				<item><emphasis>Reasonableness</emphasis> - Defusing disagreement and resolving conflicts through integration.  Characteristics include seeking relevant information, listening and responding thoughtfully to others, being open to new ideas, giving reasons for views held, and acknowledging mistakes and misunderstandings.  (From Michael Pritchard, Reasonable Children)</item>
+				<item><emphasis>Responsibility</emphasis> - The ability to develop moral responses appropriate to the moral issues and problems that arise in one's day-to-day experience.  Characteristics include avoiding blame shifting, designing overlapping role reponsibilities to fill responsibility "gaps", expanding the scope and depth of general and situation-specific knowledge, and working to expand control and power.</item>
+				<item><emphasis>Respect</emphasis> - Recognizing and working not to circumvent the capacity of autonomy in each individual.  Characteristics include honoring rights such as privacy, property, free speech, due process, and participatory rights such as informed consent.  Disrespect circumvents autonomy by deception, force, or manipulation.</item>
+				<item><emphasis>Justice</emphasis> - Giving each his or her due.  Justice breaks down into kinds such as distributive (dividing benefits and burdens fairly), retributive (fair and impartial administration of punishments), administrative (fair and impartial administration of rules), and compensatory (how to fairly recompense those who have been wrongfully harmed by others).</item>
+				<item><emphasis>Trust</emphasis> - According to Solomon, trust is the expectation of moral behavior from others.</item>
+				<item><emphasis>Honesty</emphasis> - Truthfulness as a mean between too much honesty (bluntness which harms) and dishonesty (deceptiveness, misleading acts, and mendaciousness).</item>
+				<item><emphasis>Integrity</emphasis> - A meta-value that refers to the relation between particular values.  These values are integrated with one another to form a coherent, cohesive and smoothly functioning whole.  This resembles Solomon's account of the virtue of integrity.</item>
+			</list></section>
+		<section id="Ex1">
+			<title>Exercise 1: Developing Strategies for Value Realization</title>
+			<list id="eip-126" list-type="enumerated" number-style="arabic"><title>Directions</title><item>Identify value goals.  Start with two or three.  You can add or subtract from these as the semester progresses.</item>
+<item>Give a brief description of each using terms that reflect your group's shared understandings.  You may use the descriptions in this module or those in the ADEM Statement of Values but feel free to modify these to fit your group's context.  You could also add characteristics and sample rules and aspirations.</item>
+<item>For each value goal, identify and spell out a procedure for realizing it.  See the examples just below for questions that can help you develop value procedures for values like justice and responsibility.</item>
+</list><list id="element-143" list-type="bulleted"><title>Examples</title><item>Design a plan for realizing key moral values of team work.  Your plan should address the following value-based tasks
+</item>
+				<item>How does your group plan on realizing justice?  For example, how will you assign tasks within the group that represent a fair distribution of the work load and, at the same time, recognize differences in individual strengths and weaknesses?  How does your group plan on dealing with members who fail to do their fair share?</item>
+				<item>How does your group plan on realizing responsibility?  For example, what are the responsibilities that members will take on in the context of collective work?  Who will be the leader?  Who will play devil's advocate to avoid groupthink?  Who will be the spokesperson for the group?  How does your group plan to make clear to each individual his or her task or role responsibilities?</item>
+				<item>How does your group plan on implementing the value of reasonableness?  How will you guarantee that each individual participates fully in group decisions and activities?  How will you deal with the differences, non-agreements, and disagreements that arise within the group?  What process will your group use to reach agreement?  How will your group insure that every individual has input, that each opinion will be heard and considered, and that each individual will be respected?</item>
+				<item>How does your group plan on implementing the value of (academic) honesty?  For example, how will you avoid cheating or plagiarism?  How will you detect plagiarism from group members, and how will you respond to it?</item>
+				<item>Note: Use your imagination here and be specific on how you plan to realize each value.  Think preventively (how you plan on avoiding injustice, irresponsibility, injustice, and dishonesty) and proactively (how you can enhance these values).  Don't be afraid to outline specific commitments.  Expect some of your commitments to need reformulation.  At the end of the semester, this will help you write the final report.  Describe what worked, what did not work, and what you did to fix the latter.</item></list></section>
+		<section id="ObGrW">
+			<title>Obstacles to Group Work (Developed by Chuck Huff for Good Computing: A Virtue Approach to Computer Ethics)</title>
+			<list id="element-250" list-type="enumerated"><item>The <emphasis>Abilene Paradox</emphasis>. "The story involves a
+family who would all rather have been at home that ends up having a
+bad dinner in a lousy restaurant in Abilene, Texas. Each believes
+the others want to go to Abilene and never questions this by giving
+their own view that doing so is a bad idea. In the Abilene paradox,
+the group winds up doing something that no individual wants to do
+because of a breakdown of intra-group communication."  (From Huff, Good Computing, an unpublished manuscript for a textbook in computer ethics.  See materials from Janis; complete reference below.)</item>
+				<item><emphasis>Groupthink</emphasis>. The tendency for very cohesive
+groups with strong leaders to disregard and defend against
+information that goes against their plans and beliefs. The group
+collectively and the members individually remain loyal to the party
+line while happily marching off the cliff, all the while blaming
+“them” (i.e., outsiders) for the height and situation of the
+cliff.  (Also from Huff, <emphasis>Good Computing</emphasis>, an unpublished manuscript for a textbook in computer ethics.)</item>
+				<item><emphasis>Group Polarization</emphasis>. Here, individuals within
+the group choose to frame their differences as disagreements.
+Framing a difference as non-agreement leaves open the possibility
+of working toward agreement by integrating the differences or by
+developing a more comprehensive standpoint that dialectally
+synthesizes the differences. Framing a difference as disagreement
+makes it a zero sum game; one’s particular side is good, all the
+others bad, and the only resolution is for the good (one’s own
+position) to win out over the bad (everything else).  (Weston provides a nice account of group polarization in Practical Companion to Ethics.  This is not to be confused with Cass Sunstein's different account of group polarization in <emphasis>Infotopia</emphasis>.)</item>
+				<item>Note: All of these are instances of a social
+psychological phenomenon called conformity. But there are other
+processes at work too, like group identification, self-serving
+biases, self-esteem enhancement, self-fulfilling prophecies,
+etc.</item></list><list id="eip-481"><title>More Obstacles to Group Work</title><item><emphasis>Free Riders</emphasis>: Free riders are individuals who attempt to "ride for free" on the work of the other members of the group.  Some free riders cynically pursue their selfish agenda while others fall into this pitfall because they are unable to meet all their obligations.  (See conflict of effort.)</item>
+<item><emphasis>Outliers</emphasis>: These are often mistaken for free riders.  Outliers want to become participants but fail to become fully integrated into the group.  This could be because they are shy and need encouragement from the other group members.  It could also be because the other group members know one another well and have habitual modes of interaction that exclude outsiders.  One sign of outliers; they do not participate in group social activities but they still make substantial contributions working by themselves.  ("No, I can't come to the meeting--just tell me what I have to do.")</item>
+<item><emphasis>Hidden Agendas</emphasis>: Cass Sunstein introduces this term.  A group member with a "hidden agenda" has something he or she wants to contribute but, for some reason or other, hold back.  For example, this individual may have tried to contribute something in the past and was "shot down" by the group leader.  The next time he or she will think, "Let them figure it out without me." </item>
+<item><emphasis>Conflict of Effort</emphasis>: conflict of Effort often causes an individual to become a free rider or an outlier.  These group members have made too many commitments and come unraveled when they all come due at the same time.  Students are often overly optimistic when making out their semester schedules.  They tightly couple work and class schedules while integrating home responsibilities.  Everything goes well as long as nothing unusual happens.  But if a coworker gets sick and your supervisor asks you to come in during class times to help out, or you get sick, it becomes impossible to keep the problem from "spilling out" into other areas of your schedule and bringing down the whole edifice.  Developing a schedule with periods of slack and flexibility can go a long way toward avoiding conflict of effort.  Groups can deal with this by being supportive and flexible.  (But it is important to draw the line between being supportive and carrying a free rider.)</item></list><list id="element-107" list-type="bulleted"><title>Best Practices for Avoiding Abilene Paradox</title>
+				<item>At the end of the solution generating process, carry out an anonymous survey asking participants if anything was left out they were reluctant to put before group.</item>
+				<item>Designate a Devil's Advocate charged with criticizing the group's decision.</item>
+				<item>Ask participants to reaffirm group decision--perhaps anonymously.</item></list><list id="element-824" list-type="bulleted"><title>Best Practices for Avoiding Groupthink (Taken from Janis, 262-271)</title>
+				<item>"The leader of a policy-forming group should assign the role of critical evaluator to each member, encouraging the group to give high priority to airing objections and doubts."</item>
+				<item>"The leaders in an organization's hierarchy, when assigning a policy-planning mission to a group, should be impartial instead of stating preferences and expectations at the outset."</item>
+				<item>"Throughout the period when the feasibility and effectiveness of policy alternatives are being surveyed, the policy-making group should from time to time divide into two or more subgroups to meet separately...."</item>
+				<item>One or more outside experts or qualified colleagues within the organization who are not core members of the policy-making group should be invited to each meeting ...and should be encouraged to challenge the views of the core members."</item>
+				<item>"At every meeting devoted to evaluating policy alternatives, at least one member should be assigned the role of devil's advocate."</item></list><list id="element-890" list-type="bulleted"><title>Best Practices for Avoiding Polarizatoin (Items taken from "Good Computing: A Virtue Approach to Computer Ethics" by Chuck Huff, William Frey and Jose Cruz (Unpublished Manuscript)</title>
+				<item><emphasis>Set Quotas.</emphasis>  When brainstorming, set a quota and postpone criticism until after quota has been met.</item>
+				<item><emphasis>Negotiate Interests, not Positions.</emphasis>  Since it is usually easier to integrate basic interests than specific positions, try to frame the problem in terms of interests.</item>
+				<item><emphasis>Expanding the Pie.</emphasis>  Conficts that arise from situational constraints can be resolved by pushing back those constraints through negotiation or innovation..</item>
+				<item><emphasis>Nonspecific Compensation.</emphasis>  One side makes a concession to the other but is compensated for that concession by some other coin.</item>
+				<item><emphasis>Logrolling.</emphasis>  Each party lowers their aspirations on items that are of less interest to them, thus trading off a concession on a less important item for a concession from the other on a more important item.</item>
+				<item><emphasis>Cost-Cutting.</emphasis>  One party makes an agreement to reduce its aspirations on a particular thing, and the other party agrees to compensate the party for the specific costs that reduction in aspirations involves.</item>
+				<item><emphasis>Bridging.</emphasis>  Finding a higher order interest on which both parties agree, and then constructing a solution that serves that agreed-upon interest.</item></list></section>
+		<section id="Ex2">
+			<title>Exercise 2 - Avoiding the Pitfalls of Group Work</title>
+			<list id="element-53" list-type="bulleted">
+				<item>Design a plan for avoiding the pitfalls of
+group work enumerated in the textbox above.</item>
+				<item>How does your group plan on avoiding the
+Abilene Paradox?</item>
+				<item>How does your group plan on avoiding Group
+Polarization?</item>
+				<item>How does your group plan on avoiding
+Groupthink?</item>
+				<item>Note: Use imagination and creativity here.
+Think of specific scenarios where these obstacles may arise, and
+what your group can do to prevent them or minimize their
+impact.</item></list>
+		</section>
+		<section id="eip-177"><title>Exercise 3: Socio Technical System</title><para id="eip-836">Your group work this semester will take place within a group of nested or overlapping environments.  Taken separately and together, these will structure and channel your activity, facilitating action in certain circumstances while constraining, hindering, or blocking it in others.  Prepare a socio-technical system table for your group to help structure your group self-evaluation.  Include hardware/software, physical surroundings, stakeholders (other groups, teacher, other classes, etc.), procedures (realizing values, avoiding pitfalls), university regulations (attendance), and information structures (collecting, sharing, disseminating)
+</para><list id="eip-132" list-type="enumerated" number-style="arabic"><title>Some things about Socio-Technical Systems</title><item>Socio-Technical System Analysis provides a tool to uncover the different environments in which business activity takes place and to articulate how these constrain and enable different business practices.</item>
+<item>A socio-technical system can be divided into different components such as hardware, software, physical surroundings, people/groups/roles, procedures, laws/statutes/regulations, and information systems.</item>
+<item>But while these different components can be distinguished, they are in the final analysis inseparable.  STSs are, first and foremost, systems composed of interrelated and interacting parts.</item>
+<item>STSs also embody values such as moral values (justice, responsibility, respect, trust, integrity) and non-moral values (efficiency, satisfaction, productivity, effectiveness, and profitability).  These values can be located in one or more of the system components.  They come into conflict with one another causing the system to change.</item>
+<item>STSs change and this change traces out a path or trajectory.  The normative challenge of STS analysis is to find the trajectory of STS change and work to make it as value-realizing as possible.</item></list><table id="eip-687" summary="Socio-technical system table for work groups"><title>Socio-Technical System Table for Groups</title>
+<tgroup cols="6"><tbody>
+  <row>
+    <entry>Hardware/Software</entry>
+    <entry>Physical Surroundings</entry>
+    <entry>Stakeholders</entry>
+    <entry>Procedures</entry>
+    <entry>University Regulations</entry>
+    <entry>Information Structures</entry>
+  </row>
+  <row>
+    <entry>Think about the new role for your smart phones in group work in class.  Will you be using Google Docs to exchange documents?</entry>  
+    <entry>How does the classroom and the arrangement of objects within it constrain and enable group activities?</entry>
+    <entry>Think about other teachers, classes, supervisors, jobs, and other individuals that can have an impact on your ability to carry out group assignments.</entry>
+    <entry>Name but don't describe in detail, the value-realizing procedures your group is adopting.</entry>
+    <entry>What are university regulations that will have an impact on your group work.  For example, switches between MWF and TTH schedules.</entry>
+    <entry>There is a wealth of information and skill locked in each of your group's members.  How will you unleash these and telescope them into group work and activities?  How, in other words, will you work to maximize group synergies and minimize group disadvantages?</entry>
+  </row>
+</tbody>
+
+
+
+
+
+</tgroup>
+</table><para id="eip-205"><emphasis>Exercises 1-3 compose the Preliminary Self-Evaluation which is due shortly after semester-long groups are formed.  Exercise 4 is the close-out group self evaluation which is due at the end of the semester.</emphasis></para></section><section id="Ex3">
+			<title>Exercise 4: Prepare a Final, Group Self-Evaluation</title><list id="element-546" list-type="bulleted">
+				<item>Due Date: One week after the last class of the
+semester when your group turns in all its materials.</item>
+				<item>Length: A minimum of five pages not including
+Team Member Evaluation Forms</item>
+				<item>Contents:</item>
+				<item>1. Restate the Ethical and Practical Goals
+that your group developed at the beginning of its formation.</item>
+				<item>2. Provide a careful, documented assessment of
+your group’s success in meeting these goals. (Don’t just assert
+that “Our group successfully realized justice in all its activities
+this semester.” How did your group characterize justice in the
+context of its work? What specific activities did the group carry
+out to realize this value? What, among these activities, worked and
+what did not work?)</item>
+				<item>3. Identify obstacles, shortcomings or
+failures that you group experienced during the semester. How did
+these arise? Why did they arise? How did you respond to them? Did
+your response work? What did you learn from this experience?</item>
+				<item>4. Assess the plans you set forth in your
+initial report on how you intended to realize values and avoid
+pitfalls. How did these work? Did you stick to your plans or did
+you find it necessary to change or abandon them in the face of
+challenges?</item>
+				<item>5. Discuss your group’s procedures and
+practices? How did you divide and allocate work tasks? How did you
+reach consensus on difficult issues? How did you ensure that all
+members were respected and allowed significant and meaningful
+participation? What worked and what did not work with respect to
+these procedures? Will you repeat them in the future? Would you
+recommend these procedures as best practices to future
+groups?</item>
+				<item>6. What did you learn from your experience
+working as a team this semester? What will require further
+reflection and thought? In other words, conclude your
+self-evaluation with a statement that summarizes your experience
+working together as a team this semester.</item></list><list id="eip-188"><title>Appendix for ADMI 4016, Falkl 2013 and following</title><item>What are the results of your group's challenge to the College of Business Administration's Statement of Values?  (This can be found in Developing Ethics Codes and Statements of Value.  See exercise 2.  http://cnx.org/content/m14319/1.11/</item>
+<item>What is your group's CID Structure?  See presentation two at the bottom of the module, A Short History of the Corporation.  http://cnx.org/content/m17314/1.7/</item>
+</list>
+		</section>
+		<section id="WrapUP">
+			<title>Wrap Up: Some further points to consider...</title>
+			<list id="element-804" list-type="enumerated">
+				<item>Don’t gloss over your work with
+generalizations like, “Our group was successful and achieved all of
+its ethical and practical goals this semester.” Provide evidence
+for success claims. Detail the procedures designed by your group to
+bring about these results. Are they “best practices”? What makes
+them best practices?</item>
+				<item>Sometimes—especially if difficulties
+arose—it is difficult to reflect on your group’s activities for the
+semester. Make the effort. Schedule a meeting after the end of the
+semester to finalize this reflection. If things worked well, what
+can you do to repeat these successes in the future? If things
+didn’t work out, what can you do to avoid similar problems in the
+future? Be honest, be descriptive and avoid blame language.</item>
+				<item>This may sound harsh but get used to it.
+Self-evaluations—group and individual—are an integral part of
+professional life. They are not easy to carry out, but properly
+done they help to secure success and avoid future problems.</item>
+				<item>Student groups—perhaps yours—often have
+problems. This self-evaluation exercise is designed to help you
+face them rather than push them aside. Look at your goals. Look at
+the strategies you set forth for avoiding Abilene, groupthink, and
+group polarization. Can you modify them to deal with problems? Do
+you need to design new procedures?</item></list>
+		</section><section id="eip-786"><title>Ethics of Team Work Presentations</title><para id="eip-503"><title>Values in Team Work (Thought Experiments)</title><media id="course-syl" alt="Ethics of Team Work Presentation">
+  <download mime-type="application/zip" src="Ethics of Team Work.pptx"/>
+</media>
+</para><para id="eip-808"><title>Pitfalls to Avoid in Group Work</title><media id="pres_pitfalls" alt="Presentation on Group Pitfalls">
+  <download mime-type="application/zip" src="Pitfalls to Avoid in Group Work.pptx"/>
+</media></para><para id="eip-269"><title>Thought Experiments on Group Work</title><media id="worksheet_scenarios" alt="Thought Experiments on Group Work">
+  <download mime-type="application/zip" src="Thought Experiments on Group Work.docx"/>
+</media></para><para id="eip-561"><title>Team Member Evaluation Forms (Required)</title><media id="team_evalu" alt="Team Member Evaluation Form">
+  <download mime-type="application/zip" src="TEAM MEMBER RATING SHEET-3.docx"/>
+</media></para><para id="eip-25"><title>New Ethics of Teamwork Presentation (Spring 2012)</title><media id="Presentation" alt="Revised Ethics of Teamwork Presentation">
+  <download mime-type="application/zip" src="Ethics of Teamwork.pptx"/>
+</media></para></section><section id="eip-688"><title>Ethics of Teamwork Jeopardy</title><para id="eip-984"><media id="Jeopardy14" alt="Ethics of Teamwork Jeopardy">
+  <download mime-type="application/zip" src="Team_Jeopardy.pptx"/>
+</media></para></section><section id="eip-532"><title>Bibliography</title><list id="eip-238" list-type="enumerated" number-style="arabic"><item>Weston, A.  (2002).  <emphasis>A Practical Companion to Ethics: 2nd Edition</emphasis>.  Oxford, UK: Oxford University Press</item>
+
+<item>Flores, F. and Solomon, R.  (2003).  <emphasis>Building Trust: In Business, Politics, Relationships and Life.</emphasis>  Oxford, UK: Oxford University Press.</item>
+
+<item>Brincat, Cynthia A. and Wike, Victoria S. (2000) <emphasis>Morality and the Professional Life: Values at Work</emphasis>.  Upper Saddle River, NJ: Prentice Hall.</item>
+
+<item>Urban Walker, M.  (2006).  <emphasis>Moral Repair: Reconstructing Moral Relations After Wrongdoing</emphasis>.  Cambridge, UK: Cambridge University Press.</item>
+
+<item>Pritchard, M.  (1996).  <emphasis>Reasonable Children: Moral Education and Moral Learning</emphasis>.  Lawrence, KS: Kansas University Press.</item>
+
+<item>Huff, Chuck and Jawer, Bruce.  (1994).  "Toward a Design Ethic for Computing Professionals."  <emphasis>Social Issues in computing: Putting Computing in its Place.</emphasis>  Eds. Chuck Huff and Thomas Finholt.  New York: McGraw-Hill.  130-136.</item>
+
+<item>Janis, I.  <emphasis>Groupthink: Psychological Studies of Policy Decisions and Fiascoes--2nd Ed.</emphasis>.  Boston, Mass: Wadsworth.</item>
+
+<item>Sunstein, C.R.  (2006).  <emphasis>Infotopia: How Many Minds Produce Knowledge</emphasis>.  Oxford, UK: Oxford University Press, 217-225.</item></list><para id="eip-596"/></section>
+	</content>
+</document>

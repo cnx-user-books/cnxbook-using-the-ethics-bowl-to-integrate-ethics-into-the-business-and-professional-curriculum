@@ -1,0 +1,157 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+	<title>EAC Toolkit - Instructor Module for UPRM Ethics Bowl Activity</title>
+	<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>67cfc78d-6aa0-4366-80e1-e680e926e37d</md:uuid>
+</metadata>
+
+<!-- TO EDIT THE INFORMATION ABOVE GO TO THE METADATA SECTION TAB -->
+
+
+<!-- START OF THE CONTENT/BODY OF THIS CNX MODULE -->
+<content>
+
+
+<!-- START OF FIRST SECTION -->
+  <section id="modulecore">
+  <title>REFERENCE OR LINK TO STUDENT MODULE</title>
+
+<!-- A BULLETED LIST -->
+<para id="element-288">This Ethics Bowl Instructor Module corresponds to the student module, <emphasis> EAC Toolkit - UPRM Ethics Bowl - IIT Summer Institute Follow-up </emphasis> (see pre-requisite link on the right). The student module is part of the Corporate Governance course published in Connexions (col10396).  First implemented as a capstone activity for engineering ethics classes (at the suggestion of Robert Ladenson of IIT who originated the Intercollegiate Ethics Bowl held at the annual meetings of the Association for Practical and Professional Ethics), this activity was reported on in its initial stages by Dr. Jose Cruz during an NSF-funded workshop on Ethics Across the Curriculum led by Michael Davis and carried out at the Illinois Institute of Technology in 2003.  Since then, the activity has undergone several revisions.  This module and the student module link to Dr. Cruz's report.  But they also include material added and revised since this report.  By collecting this material in the student and instructor modules, readers can see how the competition has evolved as well as learn how it can be adapted to different learning situations.  </para>
+<!-- END OF THE MAIN BULLETED LIST -->
+
+
+<!-- END OF FIRST SECTION -->			
+</section>
+
+<!-- START OF SECOND SECTION -->
+<section id="eactkmk">
+<title>INSTRUCTOR RESOURCES (Sharing Best Practices in EAC!) </title>
+
+<para id="element-35"><emphasis>This section contains information related to the above referenced Student Module. The intent and expectation is that the information contained in this section will evolve over time based on the experiences and collaborations of the authors and users of the Student Module and this Instructor Module.  For example, the authors, collaborators or users can provide the following kind of information (mainly directed at or intended for instructors).</emphasis></para>
+
+
+<!-- START OF SUBSECTION WITHIN THE SECOND SECTION -->
+<section id="modbkgrd">
+<title>Module-Background Information</title>
+
+<para id="objexamples">Where did this module come from? (e.g. A workshop, news story, based on a movie, etc.)  What condition is it in? (e.g. first draft, needs editing, publishable, etc.)  How has it been used in the past? (e.g. in classroom, workshop activity, ethics debate, etc.)  Other relevant or interesting details</para><para id="element-975">Robert Ladenson describes the growth of the Ethics Bowl concept in his paper, "The Educational Significance of the Ethics Bowl.  Currently, he directs an Intercollegiate Ethics Bowl consisting of regional competitions and a national competition held annually at the meetings of the Association for Practical and Professional Ethics.  The ICEB has over the years developed prestige and stature including winning the American Philosophical Association prize for Excellence and Innovation in Philosophy Programs.  </para><para id="element-62">The Puerto Rican instantiation of the competition in Engineering and Corporate Governance classes represents something of a de-evolution of the concept.  Ladenson began the competition within his school, the Illinois Institute of Technology; then it grew into its present form.  At UPRM, we have brought the competition back into the classroom where it serves as the capstone activity for classes in Practical and Professional Ethics.  With the minimal modifications we have made, it has turned into a very powerful classroom tool for teaching different aspects of Practical and Professional Ethics.</para><list id="element-279" list-type="bulleted"><title>This particular version of the Ethics Bowl has gone through four stages.</title>
+	<item>First, judges from Humanities and Engineering were invited to the class, and, ona Monday-Wednesday-Friday schedule within the confines of a 50 minute class, the entire competition took place and scores were calculated and announced.  Each student team debated twice.  But assessment results showed that students wanted more time to carry out each stage of the competition and they wanted more feedback from the judges.</item>
+	<item>For this reason, the second phase of the competition was carried out during the longer class sessions of the Tuesday-Thursday schedule.  While students had more time to formulate their arguments and responses, they still asked for a more relaxed schedule that included more feedback from the judges.</item>
+	<item>In the third phase, the debates were held outside the regular class schedule as determined by the students, usually on Saturdays and holidays.  While this generally worked well for the students, it became difficult to find engineering and humanities faculty members willing to give up 6 to 8 hours of their weekend.</item>
+<item>In the fourth phase, two student debating teams compete during the regular Monday-Wednesday-Friday schedule.  The first team defends its case in the first class period.  The second receives and discusses its case in the following class period.  Along with the two debating teams, two peer review teams serve as judges asking questions during the questioning period and scoring at the end of each class period.  Finally, a third class period is given over to the peer review teams announcing and explaining their scoring.  The advantage of this version of the competition is it solves both the time and feedback concerns that persisted through the prior instantiations of the debate.</item></list><para id="element-811">The authors of this module have discussed issues concerning the integration of the Ethics Bowl into the classroom in a paper entitled, "The Ethics Bowl in Engineering Ethics at the University of Puerto Rico - Mayaguez.  (Teaching Ethics, 4(2), Spring 2004: 15-32.)  This paper discusses the assessment methodology used and summaries of the assessments of the first two years of the competition.  After itemizing what the authors beieve are the considerable accomplishments of the classroom activity, it goes on to mention several ethics bowl challenges.  Ethics bowl assessment has continued after the publication of this article.  Two particular challenges have emerged: clarifying as much as possible the judging criteria and providing the debating teams as much constructive feedback as possible.  This instructor module and the corresponding studentmodule describe ethics bowl innovations that attempt to respond to these assessment issues.  </para><para id="element-958">An article by Michael Davis, "Five Kinds of Ethics Across the Curriculum: An Introduction to Four Experiments with One Kind", discusses this classroom use of the Ethics Bowl as an instance of "professional ethics across the curriculum." In a footnote worth quoting, Davis distinguishes the Engineering Ethics Bowl held at UPRM from the Intercollegiate Ethics Bowl that has come to form a central part of the yearly APPE meetings: "This description of the ethics bowl differs from Robert F. Ladenson, "The Educational Significance of the Ethics Bowl," Teaching Ethics 1(1) March 2001: 63-78, in at least three ways.  First, it describes the process of transplanting the ethics bowl to a more or less non-English speaking environment.  Second, it it desribes an effort to use the ethics bowl for professional ethics across the engineering curriculum (rather than, as Ladenson presents it, use it to do social issues across the curriculum).  And third, it it describes the process of making the ethics bowl fit the time-constraints of an ordinary (engineering) classroom." </para><list id="element-244" list-type="bulleted"><title>We add three further distinctions to Davis'.</title>
+	<item>First, we have sought to use the ethics bowl as a way to generate feedback for students on their skills in ethical decision-making.  Three classes are devoted to each competition.  The third class provides an effective debriefing on the competition.  It is not always easy for students to receive such feedback, but debriefing activities help them to interpret feedback and put it to good use.</item>
+	<item>The ethics bowl provides an excellent opportunity for students to refine their understanding of what Rest terms "intermediate moral concepts."  Examples of these concepts include "paternalism", "conflict of interest", "faithful agency", "public wellbeing", and "collegiality".  By choosing cases that explore the boundaries of these concepts, the ethics bowl can be used as a wayy of proceeding from clear instances of these concepts to more problematic instances.  This activity of prototyping forms an essential part of our coming to understand the thick, complicated moral concepts so essential to everyday moral reasoning.</item>
+	<item>Studies like the Hitachi Report demonstrate that much of the moral decision-making that our students will be exercising will be shaped and constrained by the organizational environments in which they work.  Companies built around financial objectives elicit one kind of moral advocacy while those built around customer- or quality-oriented standards require quite different strategies.  With carefully chosen cases, the ethics bowl can recreate these environments to allow students to practice decision-making under real world constraints.  The classroom becomes an "ethics laboratory".</item></list>
+
+</section>
+<!-- END OF SUBSECTION -->
+			
+
+<!-- START OF SUBSECTION WITHIN THE SECOND SECTION -->
+<section id="learninggoals">
+<title>Learning Objectives</title>
+
+<para id="lrnobj">What are the intended learning objectives or goals for this module?  What other goals or learning objectives are possible?  </para><para id="element-743">Below are different lists of content and skill objectives of the ethics bowl.  Not all of themapply at once.  But they can be bundled together to fit different forms or instantiations.  For example, a Corporate Governance ethics bowl would differ from an Engineering Ethics Bowl in terms of content objectives.  This difference could be reflected in case selection, especially through the different basic and intermediate moral concepts covered by a case.  The same would apply to a list of skill objectives; not all the UPRM skills could be covered in a given case or even a given competition.  But a wide range of cases selected for student preparation could at least touch upon these skills.</para><para id="element-644">Content Objectives come from the AACSB Ethics Education Task Force Report.  In the Corporate Governance class (Connexions course, col10396), a special effort has been made to make the ethics bowl responsive to these content requirements.</para><list id="element-691" list-type="bulleted"><title>Content Objectives</title>
+	<item><emphasis>Ethical Leadership (EL)</emphasis>: (a) “Expanding…awareness to include multiple stakeholder interests and…developing and applying…ethical decision-making skills to organizational decisions in ways that are transparent to…followers.”  (b) “Executives become moral managers by recognizing and accepting their responsibility for acting as ethical role models.”</item>
+	<item><emphasis>Decision-Making (DM)</emphasis>: “Business schools typically teach multiple frameworks for improving students’ ethical decision-making skills. Students are encouraged to consider multiple stakeholders and to assess and evaluate using different lenses and enlarged perspectives.”</item>
+	<item><emphasis>Social Responsibility (SR)</emphasis>: “Businesses cannot thrive in environments where societal elements such as education, public health, peace and personal security, fidelity to the rule of law, enforcement of contracts, and physical infrastructures are deficient.”
+</item>
+	<item><emphasis>Corporate Governance (CG)</emphasis>: (a) “Knowing the principles and practices of sound, responsible corporate governance can also be an important deterrent to unethical behavior.”  (b) “Understanding the complex interdependencies between corporate governance and other institutions, such as stock exchanges and regulatory bodies, can be an important factor in managing risk and reputation.”</item>
+</list><list id="element-495" list-type="bulleted"><title>UPRM Ethical Empowerment Skills List</title>
+	<item>UPRM Objectives have been taken from SEE, 546-547:</item>
+	<item><emphasis>Ethical Awareness:</emphasis> “the ability to perceive ethical issues embedded in complex, concrete situations.  It requires the exercise of moral imagination which is developed through discussing cases that arise in the real world and in literature.”</item>
+	<item><emphasis>Ethical Evaluation</emphasis>: “ the ability to assess a product or process in terms of different ethical approaches such as utilitarianism, rights theory, deontology, and virtue ethics.”  This skill can also be demonstrated by ranking solution alternatives using ethics tests which partially encapsulate ethical theory such as reversibility, harm, and publicity.</item>
+	<item><emphasis>Ethical Integration</emphasis>: “the ability to integrate—not just apply—ethical considerations into an activity (such as a decision, product or process) so that ethics plays an essential, constitutive role in the final results.”</item>
+	<item><emphasis>Ethical Prevention</emphasis>: the ability to (a) uncover potential ethical and social problems latent in a socio-technical system and (b) develop effective counter-measures to prevent these latent problems from materializing or to minimize their harmful or negative impact.  Ethical is an adjective that modified “prevention”; hence ethical prevention does not mean the prevention of the ethical.</item>
+	<item><emphasis>Value Realization</emphasis>: “the ability to recognize and exploit opportunities for using skills and talents to promote community welfare, enhance safety and health, improve the quality of the environment, and (in general) enhance wellbeing.</item>
+</list><list id="element-799" list-type="bulleted"><title>Hastings Center Goals</title>
+<item>Stimulate the moral imagination of students
+</item>
+<item>Help students recognize moral issues</item>
+<item>Help students analyze key moral concepts and principles</item>
+<item>Elicit from students a sense of responsibility
+</item>
+<item>Help students to accept the likelihood of ambiguity and disagreement on moral matters, while at the same time attempting to strive for clarity and agreement insofaras it is reasonably attainable</item><item>(from Pritchard, Reasonable Children, 15)</item>
+</list><list id="element-376" list-type="bulleted"><title>Goals for ethical education in science and engineering derived from psychological literature (Huff and Frey)</title>
+	<item>Mastering a knowledge of basic facts and understanding and applying basic and intermediate ethical concepts.</item>
+<item>Practicing moral imagination (taking the perspective of the other, generating non-obvious solutions to moral problems under situational constraints, and setting up multiple framings of a situation)</item>
+<item>Learning moral sensitivity</item>
+<item>Encouraging adoption of professional standards into the professional self-concept</item>
+<item>Building ethical community</item></list><para id="element-139">The figure below provides an EAC Matrix used at the University of Puerto Rico at Mayaguez in the College of Business Administration.  It also separates the objectives mentioned above into primary and secondary areas of focus.  Finally, it imports information as to whether the actual outcomes meet the objectives.</para>
+
+</section>
+<!-- END OF SUBSECTION -->
+			
+
+<!-- START OF SUBSECTION WITHIN THE SECOND SECTION -->
+<figure id="element-819"><title>Ethics Bowl Student Module Matrix</title>
+	<media id="idm7967520" alt=""><download src="EACMatrix_Template_Ethics_Bowl.doc" mime-type="application/msword"/></media>
+	<caption>This Matrix identifies the learning objectives of the corresponding student module by cross referencing the moral development objectives, accreditation criteria and the curricular "space" the the module fills.</caption>
+</figure><section id="pedagogicalstrategies">
+<title> Instructional / Pedagogical Strategies </title>
+
+<para id="assessmentexamples">Which pedagogical or instructional strategies are used or suggested for this module.  (For example: Discussion/Debate, Decision-Making Exercise, Presentation, Dramatization or Role Playing, Group Task, Formal or Informal Writing, Readings, among others)</para><list id="element-999" list-type="bulleted"><title>This module employs the following pedagogical strategies:</title>
+<item><emphasis>Informal Writing</emphasis>: Students prepare their cases by writing short summaries.
+</item>
+	<item><emphasis>Formal Writing</emphasis>: After ethics bowl competition, students in teams prepare a formal, in-depth case analysis of the case they debated during the competition.</item>
+	<item><emphasis>Cooperative Learning</emphasis>: Students are divided into teams to prepare for debate, carry out debate, peer review as judges other debates, and prepare an in-depth follow-up analysis.  The also prepare preliminary and final self-evaluations to assess the effectiveness of their work together as teams.</item>
+<item><emphasis>Pre-Debate Skills</emphasis>: Theethics bowl requires considerable preparation. Students need practice with ethical and practical frameworks as well as work on researching cases and working with the basic and intermediate moral concepts posed in the cases.  Students also need an orientation to the competition that includes the rules, time line, and debating and presenting strategies.  Finally, it is important to explain carefully to students the ethics bowl scoring criteria.</item>
+</list>
+
+</section>
+<!-- END OF SUBSECTION -->
+			
+
+<!-- START OF SUBSECTION WITHIN THE SECOND SECTION -->
+<section id="assessmentaol">
+<title> Assessment / Assurance of Learning </title>
+
+<para id="bkgdexamples">What assessment or assurance of learning methods are used or suggested for this module?  (For example: 1-minute paper, Muddiest Point, Quiz/Test Items, Oral Presentation, Student Feed-back, among others). What did or didn't work?
+ </para>
+
+</section>
+<!-- END OF SUBSECTION -->
+			
+
+<!-- START OF SUBSECTION WITHIN THE SECOND SECTION -->
+<para id="element-583">The figures below provide handouts for assessing this module.  The Ethics Bowl scoring sheets contained in the Student Module also provide excellent means for assessing this activity.</para><figure id="element-258"><title>Muddiest Point Assessment Form</title>
+  <media id="idp839136" alt=""><download src="MP.doc" mime-type="application/msword"/></media>
+  <caption>The attached word document provides a handout to assess this module in terms of its weakest and strongest points.</caption>
+ </figure><figure id="element-398"><title>Module Assessment Form</title>
+  <media id="idm6921584" alt=""><download src="MAP.doc" mime-type="application/msword"/></media>
+  <caption>This figure contains an assessment handout, a modification of a form developed by Michael Davis for IIT EAC workshops.</caption>
+ </figure><section id="commentary">
+<title> Pedagogical Commentary </title>
+
+<para id="commentaryexamples">Any comments or questions regarding this module?  (For example: suggestions to authors, suggestions to instructors (how-to), queries or comments directed o EAC community, pitfalls or frustrations, novel ideas/approaches/uses, etc.)</para>
+
+</section>
+<!-- END OF SUBSECTION -->
+			
+
+<!-- START OF SUBSECTION WITHIN THE SECOND SECTION -->
+<list id="element-855" list-type="bulleted"><item>Case selection is everything.  Identify themoral concepts you wish to cover.  Then choose cases that involve these concepts.  The debate itself, especially the question and answer session with the judges, can be used to generate a discussion of these concepts.</item>
+	<item>The Ethics Bowl is definitely a student-centered activity.  It is best for the teacher to assume the role of moderator and intervene only to keep the discussion focused.  If students are properly oriented for the competition, then they assume responsibility themselves for keeping the debate orderly.</item>
+	<item>Debriefing is important.  Students get plenty of feedback from the competition and need help interpreting it and receiving it constructively.  The peer review students also need advice on how to deliver the feedback proactively.  We tend to approach the debate from the standpoint of the virtue of reasonableness and provide students with plenty of opportunities to practice this virtue before the competition.</item></list><section id="supplements">
+<title>Appendix (Annotated)</title>
+
+<list id="element-669" list-type="bulleted"><title>Bibliographical Information</title>
+	<item>Robert F. Ladenson (2001) "The Educational Significance of the Ethics Bowl".  Teaching Ethics 1(1), March 2001: 63-78.</item>
+	<item>Jose A Cruz, William J. Frey, and Halley D. Sanchez. (2004) "The Ethics Bowl in Engineering Ethics at the University of Puerto Rico- Mayaguez".  Teaching Ethics 4(2), Spring 2004: 15-32.</item>
+	<item>Michael Davis (2004) "Five Kinds of Ethics Across the Curriculum".  Teaching Ethics 4(2), Spring 2004: 1-14.</item>
+	<item>Michael Davis (1998) Thinking Like An Engineer: Studies in the Ethics of a Profession.  U.K.: Oxford University Press: 119-156.</item>
+	<item>Michael S. Pritchard (1996) Reasonable Children: Moral Education and Moral Learning.  Lawrence, KS: University of Kansas Press: 140-163</item>
+	<item>James Rest, Darcia Narvaez, Muriel J. Bebeau, and Stephen J. Thoma (1999) Postconventional Moral Thinking: A Neo-Kohlbergian Approach.  Mihway, New Jersey: Lawrence Erlbaum Associates, Publishers: 104.</item>
+	<item>Mark Johnson (1993) Moral Imagination: Implications of Cognitive Science for Ethics.  Chicago, IL: University of Chicago Press: 8-9.</item>
+	<item>Jose A Cruz and William J. Frey (2003) "An Effective Strategy for Integrating Ethics Across the Curriculum in Engineering: An ABET 2000 Challenge"  Science and Engineering Ethics 9(4): 546-548.</item>
+<item>Chuck Huff and William Frey (2005) Moral pedagogy and Practical Ethics, Science and Engineering Ethics, 11(3): 389-408.</item></list><para id="apxexamples">Additional information or annotations for instructors regarding the Student Module Appendix</para>
+
+</section>
+<!-- END OF SUBSECTION -->
+			
+
+</section>
+<!-- END OF SECOND SECTION AFTER ALL SUBSECTIONS-->
+
+
+</content>
+</document>

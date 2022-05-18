@@ -1,0 +1,579 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+	<title>Practical and Professional Ethics Bowl Activity: Follow-Up In-Depth Case Analysis</title>
+	<metadata>
+  <md:content-id>m13759</md:content-id><md:title>Practical and Professional Ethics Bowl Activity: Follow-Up In-Depth Case Analysis</md:title>
+  <md:abstract>This module outlines of how to incorporate three frameworks (software development cycle, ethics tests, and feasibility test) into Ethics Bowl case summaries and Ethics Bowl in-depth case analysis.  It assumes knowledge of ethics tests, a decision procedure based on the software development cycle, familiarity with problem specification activities, and an understanding of how to carry out a stakeholder analysis.  Finally, it provides students a chance to achieve closure on their participation in the Practical and Professional Ethics Bowl, a competition based on the Ethics Bowl held annually at meetings of the Association for Practical and Professional Ethics.  Information on the national competition, devised by Dr. Robert Ladenson, can be found at the website of the Center for the Study of Ethics in the Professions, www.iit.edu/departments/csep. This module is being developed as a part of an NSF-funded project, "Collaborative Development of Ethics Across the Curriculum Resources and Sharing of Best Practices," NSF SES 0551779.</md:abstract>
+  <md:uuid>ec98551e-9d32-4bea-94a7-a78aee26a2c3</md:uuid>
+</metadata>
+	<content>
+		<section id="intro">
+			<title>Module Introduction</title>
+			<para id="element-305">This module provides students with a structure for preparing an in-depth case study analysis based on feedback they have received through their participation in an <emphasis>Ethics Bowl</emphasis> competition as part of the requirements for courses in Practical and Professional Ethics taught at the University of Puerto Rico at Mayaguez.  Students viewing this module will find formats for analyzing decision making cases and position cases such as the decisions published by the National Society of Professional Engineers <emphasis>Board of Ethical Review</emphasis>.  They will receive information pertinent to preparing in-depth case analyses, short summaries of the case pool for the Ethics Bowl competition, and a summary of procedures for carrying out a group self-evaluation.  More information on the Engineering Ethics Bowl carried out at UPRM can be found in Jose A Cruz-Cruz, William J. Frey, and Halley D. Sanchez, "The Ethics Bowl in Engineering Ethics at the University of Puerto Rico - Mayaguez" in Teaching Ethics 4(3): 15-32.</para></section>
+		<section id="CSL">
+			<title>Choosing Your Case</title>
+			<list id="id5328583" list-type="enumerated">
+				<item>You must choose one of the two cases you presented on in the
+Ethics Bowl. (This means the case on which you gave your initial
+presentation.</item>
+				<item>You may choose either the first round decision-making case or
+the NSPE Board of Ethical Review Case</item>
+			</list>
+			<para id="id5328606">How should you choose your case?</para>
+			<list id="id5328610" list-type="enumerated">
+				<item>Which case did you find the most interesting, challenging, or
+fruitful?</item>
+				<item>On which case did you receive the most interesting feedback
+from the other team and the judges?</item>
+				<item>Do you want to make, defend, and implement a decision or
+analyze a BER decision?</item>
+			</list>
+			<para id="id5328637">Once you choose your case, you need to analyze
+it according to the following steps:</para>
+			<para id="id5328646">Decision-Making Cases</para>
+			<table id="id5328658" summary="">
+				<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+					<colspec colnum="2" colname="c2"/>
+					<tbody>
+						<row>
+							<entry><emphasis>Worksheets</emphasis></entry>
+							<entry><emphasis>Decision-Making Case</emphasis></entry>
+						</row>
+						<row>
+							<entry/>
+							<entry>Identify and state the (ethically) relevant facts</entry>
+						</row>
+						<row>
+							<entry>STS Table (Table + Verbal Explanation)</entry>
+							<entry>Prepare a Socio-Technical Analysis.  Fill in the STS table (see below) and then verbally describe each component.</entry>
+						</row>
+						<row>
+							<entry>Value Table (Table + Written Problem Statement)</entry>
+							<entry>Fill out a Value Table (see below)  Use it to identify the ethical problem or problems.  Summarize this by providing a concise problem statement that is explicitly tied to the Value Table.</entry>
+						</row>
+						<row>
+							<entry>Brainstorm Lists (initial and refined lists)</entry>
+							<entry>4. Brainstorm solution to the problem or problems. Be sure
+to discuss how list was generated and how it was refined. Describe
+value integration and interest negotiating strategies used.</entry>
+						</row>
+						<row>
+							<entry>Solution Evaluation Matrix (Matrix + Verbal Explanation and
+Justification)</entry>
+							<entry>5. Compare, evaluate, and rank the solutions</entry>
+						</row>
+						<row>
+							<entry/>
+							<entry>6. Choose the best available solution. Provide a
+justification summarizing ethical and feasibility considerations
+highlighted in Solution Evaluation Matrix.</entry>
+						</row>
+						<row>
+							<entry>Feasibility Matrix (Matrix + Verbal Explanation)</entry>
+							<entry>7. Develop a plan for implementing your solution. Discuss
+and justify this plan explicitly in terms of the specific
+feasibility considerations in the Feasibility Matrix.</entry>
+						</row>
+						<row>
+							<entry/>
+							<entry>Develop and discuss preventive measures (if
+applicable)</entry>
+						</row>
+					</tbody>
+				</tgroup>
+			</table><para id="id5328924">NSPE-BER Case</para>
+			<table id="id5328928" summary="">
+				<tgroup cols="2">
+					<colspec colnum="1" colname="c1"/>
+					<colspec colnum="2" colname="c2"/>
+					<tbody>
+						<row>
+							<entry>Worksheets</entry>
+							<entry/>
+						</row>
+						<row>
+							<entry/>
+							<entry>1. Identify and state the (ethically) relevant facts</entry>
+						</row>
+						<row>
+							<entry>Stakeholders (Matrix + Verbal Explanation)</entry>
+							<entry>2. Identify the stakeholders and their stakes.</entry>
+						</row>
+						<row>
+							<entry>Problem Classification (Matrix + Concise Verbal Problem
+Statement)</entry>
+							<entry>3. Identify the ethical problem or problems</entry>
+						</row>
+						<row>
+							<entry/>
+							<entry>4. State the BER decision and summarize their code-based
+justification (cite code provisions, summarize principles, and list
+relevant precedents)</entry>
+						</row>
+						<row>
+							<entry>Solution Evaluation (Matrix + detailed verbal explanation
+and justification)</entry>
+							<entry>5. Evaluate the BER decision using the three ethics tests,
+code test, and global feasibility test.</entry>
+						</row>
+						<row>
+							<entry/>
+							<entry>6. Construct a strong counter-position and counter-argument
+to the BER decision</entry>
+						</row>
+						<row>
+							<entry>Solution Evaluation (Matrix + detailed verbal explanation
+and justification)</entry>
+							<entry>7. Evaluate counter-position and counter-argument using the
+3 ethics tests, feasibility test, and code test</entry>
+						</row>
+						<row>
+							<entry>Solution Implementation (Feasibility Matrix + Verbal
+Explanation)</entry>
+							<entry>8. Evaluate counter-position and counter-argument in terms
+of relevant feasibility considerations. Provide a matrix/table +
+verbal explanation.</entry>
+						</row>
+					</tbody>
+				</tgroup>
+			</table>
+		</section>
+		<section id="Steps">
+			<title>In-Depth Analysis: Step by Step</title>
+			<para id="id5329184">Description of In-Depth Case Analysis</para>
+			<para id="id5329189">Title of Assignment: "In-Depth Case
+Analysis”</para>
+			<para id="id5329196">Due Date for Written Projects:One week after
+the last class of the semester.</para>
+			<para id="id5329212">What is required?</para>
+			<para id="id5329217">1. Participation in at two ethics bowl
+competitions.</para>
+			<para id="id5329223">2. Each group will choose from the two cases
+it debated in the Ethics Bowl a case for a more extended analysis
+carrying out the seven-step decision making framework. They will
+prepare an extended analysis of this case (10 to 20 pages).</para>
+			<para id="id5329234">3. Each group will prepare summaries of the 15
+cases assigned for the ethics bowl. These summaries (a minimum of
+one page for each case) will be handed in with the extended case
+study analysis. These summaries should include a problem statement,
+a solution evaluation matrix, and a feasibility matrix.</para>
+			<para id="id5329251">4. Each final submission will also include a
+group self-evaluation. This evaluation will include:</para>
+			<list id="id5329259" list-type="bulleted">
+				<item>_____a list of the goals each group set for itself</item>
+				<item>_____a careful, justified and documented assessment of your
+success in reaching these goals</item>
+				<item>_____a careful assessment of what you did and did not learn
+in this activity</item>
+				<item>_____a discussion of obstacles you encountered and measures
+your group took to overcome these.</item>
+				<item>_____a discussion of member participation and contribution
+including the member contribution forms</item>
+				<item>_____in general what worked and what didn’t work for you and
+your group in this activity</item>
+			</list>
+			<para id="id5329304">5. A group portfolio consisting of the
+materials prepared by your group during the group class
+activities:</para>
+			<list id="id5329310" list-type="bulleted">
+				<item>_____Virtue Chart (Responsibility)</item>
+				<item>_____Gray Matters Solution Evaluation Matrix</item>
+				<item>_____Rights Chart: Free &amp; Informed Consent</item>
+				<item>_____Group Code of Ethics</item>
+			</list>
+			<list id="element-466" list-type="enumerated"><title>Structure of Written Analysis</title>
+				<item>A brief summary of the case focusing on the ethically relevant facts.</item>
+				<item>A Socio-Technical System Table + Short paragraph on each of the seven categories.</item>
+				<item>A Value Table + a short paragraph on the embedded values you have identified and where they occur in the STS.  Then state whether you have found any value mismatches, magnified existing value conflicts, and remote/harmful consequences.</item>
+				<item>On the basis of your STS analysis and value conflict analysis, provide a short, concise problem statement.  Make sure your the problem you have identified is grounded in your STS and value analysis.  If not, one or the other (or both) needs to be changed.</item>
+				<item>A brainstorm list in which you record the solutions your group has designed to solve the problem stated above.  The rough unrefined list should include around 10 solutions.  Then refine this list into three.  Spend time detailing how you reached your refined list.  Did you synthesize rough solutions?  On what basis did you leave a solution out all together?  Did you find other ways of relating or combining solutions?  Spend time documenting your brainstorming and refining process.  Show in detail how you came up with the refined list.</item>
+				<item>Do a comparative evaluation of three of the refined solutions you developed in the previous step.  First, prepare a solution evaluation matrix that summarizes your comparative evaluation.  Use the table provided below.  Second, provide a verbal account of the solution evaluation and comparison process you present in the solution evaluation matrix.</item>
+				<item>Reach a final decision.  Defend your decision using the ethics and feasibility tests.  If the decision situation in which you are working is a dynamic one, then proppose a series of solutions that you will pursue simultaneously, including how you would respond to contingencies that might arise.  (You could express this in the form of a decision tree.)</item>
+				<item>Fill out a Feasibility Matrix.  See matrix below</item>
+				<item>Present an implementation plan based on your Feasibility Matrix.  This plan should list the obstacles that might arise and how you plan to overcome them.  (For example, don't just say, "Blow the whistle."  Discuss when, how, where, to whom, and in what manner.  How would you deal with reprisals?  Would your action seriously disrupt internal relations of trust and loyalty?  How would you deal with this?)  Work out a detailed plan to implement your decision using the feasibility constraints to "suggest" obstacles and impedements.</item>
+				<item>Finally, discuss preventive measures you can take to prevent this type of problem from arising again in the future.</item></list>
+			<table id="element-327" summary="">
+				<title>Socio-Technical System Table</title>
+				<tgroup cols="7"><tbody>
+						<row>
+							<entry>Hardware</entry>
+							<entry>Software</entry>
+							<entry>Physical Surroundings</entry>
+							<entry>People, Groups, Roles</entry>
+							<entry>Procedures</entry>
+							<entry>Laws, Statutes, Regulations</entry>
+							<entry>Data and Data Structures</entry>
+						</row>
+						<row>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+						</row>
+						<row>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+						</row>
+						<row>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+						</row>
+					</tbody>
+				</tgroup>
+			</table>
+			<table id="element-700" summary="">
+				<title>STS Value Table</title>
+				<tgroup cols="8"><tbody>
+						<row>
+							<entry/>
+							<entry>Hardware</entry>
+							<entry>Software</entry>
+							<entry>Physical Surroundings</entry>
+							<entry>People, Groups, Roles</entry>
+							<entry>Procedures</entry>
+							<entry>Laws</entry>
+							<entry>Data and Data Structures</entry>
+						</row>
+						<row>
+							<entry>Integrity</entry>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+						</row>
+						<row>
+							<entry>Justice</entry>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+						</row>
+						<row>
+							<entry>Respect</entry>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+						</row>
+						<row>
+							<entry>Responsibility for Safety</entry>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+						</row>
+						<row>
+							<entry>Free Speech</entry>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+						</row>
+						<row>
+							<entry>Privacy</entry>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+						</row>
+						<row>
+							<entry>Property</entry>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+						</row>
+					</tbody>
+				</tgroup>
+			</table><table id="id5333477" summary="">
+				<title>Solution Evaluation Matrix</title>
+				<tgroup cols="7"><colspec colnum="1" colname="c1"/>
+					<colspec colnum="2" colname="c2"/>
+					<colspec colnum="3" colname="c3"/>
+					<colspec colnum="4" colname="c4"/>
+					<colspec colnum="5" colname="c5"/>
+					<colspec colnum="6" colname="c6"/>
+					<colspec colnum="7" colname="c7"/>
+					<tbody>
+						<row>
+							<entry>Solution/Test</entry>
+							<entry>Reversibility or Rights</entry>
+							<entry>Harms/Beneficence or Net Utility</entry>
+							<entry>Virtue</entry>
+							<entry>Value</entry>
+							<entry>Code</entry>
+							<entry>Global Feasibility</entry>
+						</row>
+						<row>
+							<entry>Description</entry>
+							<entry>Is the solution reversible with stakeholders? Does it honor
+basic rights?</entry>
+							<entry>Does the solution produce the best benefit/harm ratio? Does
+the solution maximize utility?</entry>
+							<entry>Does the solution express and integrate key virtues?</entry>
+							<entry>Moral values realized? Moral values frustrated? Value
+conflicts resolved or exacerbated?</entry>
+							<entry>Does the solution violate any code provisions?</entry>
+							<entry>What are the resource, technical, and interest constraints
+that could impede implementation?</entry>
+						</row>
+						<row>
+							<entry>Best solution</entry>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+						</row>
+						<row>
+							<entry>Best alternate solution</entry>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+						</row>
+						<row>
+							<entry>Worst solution</entry>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+						</row>
+					</tbody>
+				</tgroup>
+			</table>
+			<table id="id5333944" summary="">
+				<tgroup cols="9">
+					<colspec colnum="1" colname="c1"/>
+					<colspec colnum="2" colname="c2"/>
+					<colspec colnum="3" colname="c3"/>
+					<colspec colnum="4" colname="c4"/>
+					<colspec colnum="5" colname="c5"/>
+					<colspec colnum="6" colname="c6"/>
+					<colspec colnum="7" colname="c7"/>
+					<colspec colnum="8" colname="c8"/>
+					<colspec colnum="9" colname="c9"/>
+					<tbody>
+						<row>
+							<entry namest="c1" nameend="c9">Feasibility Matrix</entry>
+						</row>
+						<row>
+							<entry namest="c1" nameend="c3">Resource Constraints</entry>
+							<entry namest="c4" nameend="c5">Technical Constraints</entry>
+							<entry namest="c6" nameend="c9">Interest Constraints</entry>
+						</row>
+						<row>
+							<entry>Time</entry>
+							<entry>Cost</entry>
+							<entry>Available materials, labor, etc</entry>
+							<entry>Applicable technology</entry>
+							<entry>Manufactur-ability</entry>
+							<entry>Per-son-alities</entry>
+							<entry>Organiza-tional</entry>
+							<entry>Legal</entry>
+							<entry>Social, Political, Cultural</entry>
+						</row>
+					</tbody>
+				</tgroup>
+			</table>
+		</section>
+		<section id="Fmt">
+			<title>Format</title>
+			<para id="id5334174">1. Group, team-written projects are to be
+10-20 pages in length, double spaced, with standard 1-inch margins,
+and typewritten. This does not include documentation, appendices,
+and other notes.</para>
+			<para id="id5334184">2. It is essential that you carefully and
+fully document the resources that you have consulted. The most
+direct way to do this is to include numbered entries in a
+concluding section entitled, "Works Cited". These entries should
+provide complete bibliographical information according to standard
+form (Chicago Manual of Style or the MLA Manual of Style). Then
+insert the number of the entry in parenthesis in the text next to
+the passage that is based on it. (Example: "The self is a relation
+that relates itself to its own self…." (4) The number "4" refers to
+the forth item in the "Works Cited" section at the end of your
+paper.)</para>
+			<para id="id5334236">3. Practical norm 5j of the CIAPR code of
+ethics sets forth the obligation of the professional engineer to
+give others due credit for their work. For this reason, plagiarism
+will not be tolerated in any form. Possible forms of plagiarism
+include but are not limited to the following:</para>
+			<list id="id5334250" list-type="bulleted">
+				<item>Quoting directly from other sources without documenting
+(footnote or bibliography) and/or without using quotation marks.
+Claiming that this is an appendix will not excuse this action.
+Claiming ignorance will not excuse this action.</item>
+				<item>Using the ideas or work of others without giving due credit
+or proper acknowledgment. "Proper acknowledgment”,” in this
+context, requires a standard bibliographical reference and the use
+of quotation marks if the material is being directly quoted.</item>
+				<item>If your paper relies exclusively or primarily on extensively
+quoted materials or materials closely paraphrased from the work of
+others, then it will not be credited as your work even if you
+document it. To make it your own, you have to summarize it in your
+own words, analyze it, justify it, or criticize it.</item>
+				<item>You will not be credited for material that you translate from
+English to Spanish unless you add to it something substantial of
+your own.</item>
+				<item>In general, what you appropriate from another source must be
+properly digested, analyzed, and expressed in your own words. If
+you have any questions on this, please ask me.</item>
+				<item>Any plagiarized document—one which violates the above
+rules—will be given a zero. You will be given a chance to make this
+up, and the grade on the make-up project will be averaged in with
+the zero given to the plagiarized document. Since this is a group
+grade, everyone in the group will be treated the same, even though
+the plagiarizer may be only one person. Each member of the group is
+responsible to assure that other members do not plagiarize in the
+name of the group. (Since the due date for the written project is
+late in the semester, this will probably require that I give the
+entire group, i.e., all members, an Incomplete.) Each member of the
+group will be held individually responsible in the above-described
+manner for the final content of the written report.</item>
+			</list>
+			<para id="id5334349">4. This is not a research project but an
+exercise in integrating ethics into real world cases. In Chapters 2
+and 3 of Engineering Ethics: Concepts and Cases, the authors
+present a thorough discussion of the case study analysis/problem
+solving method discussed in class. You also have supporting
+handouts in your file folders from Magic Copy Center as well as
+materials I have presented directly in class. Engineering Ethics:
+Concepts and Cases also contains several sample case studies that
+can help guide you in constructing your own presentation. What I am
+looking for is a discussion of the case in terms of the ethical
+approaches and decision-making frameworks we have discussed this
+semester. You do not need to "wow" me with research into other
+areas peripherally related to the case; you need to show me that
+you have practiced decision-making and made a serious effort to
+integrate ethical considerations into the practice of
+engineering.</para>
+			<para id="id5334400">5. The usual criteria concerning formal
+presentations apply when competing in the Ethics Bowl. Dress
+professionally.</para>
+			<para id="id5334409">6. You may write your group, team-written
+project in either Spanish or English.</para>
+			<para id="id5334416">7. All competitions will take place in the
+regular classroom.</para>
+		</section>
+		<section id="medfil">
+			<title>Media Files Beginning Spring 2007</title>
+			<para id="id5334426">
+These media files provide information on the ethics bowl and the follow-up activities including individual decision point summaries, in-depth case analysis, and group self-evaluation.  They have been integrated into the Business Ethics course during the Spring semester, 2008 and will apply from this date on into the future.</para><figure id="element-483"><title>Team Member Evaluation Form</title>
+				<media id="id21722528" alt=""><download src="TEAM MEMBER RATING SHEET.doc" mime-type="application/msword"/></media>
+				<caption>This file contains the team member rating sheet which each group member must fill out and turn in with his or her group project.</caption>
+			</figure>
+		</section>
+		<figure id="element-549"><title>Final Project and Group Self-Evaluation Rubrics</title>
+	<media id="id6704590" alt=""><download src="Be_Rubric_S07.doc" mime-type="application/msword"/></media>
+	<caption>This rubric will be used to grade the in-depth case analysis, the group self-evaluation, and the Ethics Bowl case summaries.</caption>
+</figure><figure id="element-845"><title>Basic Moral Concepts for Ethics Bowl</title>
+  <media id="id22491357" alt=""><download src="BME_V2_97.doc" mime-type="application/msword"/></media>
+  <caption>Clicking on this figure will download the basic moral concepts that you will be integrating into the ethics bowl and your final in-depth case analysis.  You will be asked to show how you worked to integrate these concepts in your group self-evaluation.</caption></figure><figure id="element-321"><title>Intermediate Moral Concepts for Ethics Bowl</title>
+  <media id="id8739180" alt=""><download src="IMC_V2_97.doc" mime-type="application/msword"/></media>
+  <caption>Clicking on this future will open a table that summarizes the intermediate moral concepts that are at play in the four cases that are being used in the Ethics Bowl: Hughes, Therac, Toysmart, and Biomatrix.</caption></figure><para id="eip-432"><title>Ethics Bowl Cases for ADMI 4016: Environment of the Organization</title><media id="id8739181" alt=""><download src="Ethics Bowl Cases.docx" mime-type="application/msword"/></media></para><section id="cklst">
+			<title>Check List</title>
+			<para id="id5334425">Breakdown of Project Grade:</para>
+			
+			<list id="element-948" list-type="bulleted"><title>Group Team-Written Project: 200 points, group
+grade.</title>
+<item>This is your group's in-depth case analysis</item>
+	<item>It will analyze the decision scenario your group presented on in the ethics bowl</item>
+	<item>Your task is to give a full and comprehensive analysis of a decision point using the tables presented above, accompanying verbal descriptions, and carrying out the four-stage problem-solving framework of specifying the problem, generating solutions, testing solutions in terms of their ethics, and implementing these solutions.</item></list><list id="element-393" list-type="bulleted"><title>Nota Bene</title>
+<item>After the Ethics Bowl, I will provide the class with general feedback and presentations on how to prepare the final project. When you submit your final report, I will be looking for how you responded to my comments and suggestions and to the comments and suggestions of the judges and the class.</item>
+	<item>Attendance is mandatory for all Ethics Bowl competitions. This is important because you will help one another by the comments and discussions that are generated by the presentations. Students not competing need to listen actively and respectfully to the presenting group. Keep in mind the twin standards of respect and professionalism. I will deduct points from the grades of groups and/or individuals who do not listen courteously to the presentations of others or who do not attend class during the presentation cycle.</item>
+</list>
+			<para id="id5334458">Nota Bene:</para>
+			
+			<list id="element-521" list-type="bulleted"><title>Check List</title>
+	<item><emphasis>Each group will turn in this checklist, fully
+filled out and signed. Checking signifies that your group has
+completed and turned in the item checked. Failure to submit this
+form will cost your group 20 points</emphasis></item>
+	<item>____ One page summaries of the 10 Ethics Bowl decision points taken from the Therac-25, Biomatrix, Toysmart, and Hughes cases.</item>
+	<item>____ Group, in-depth analysis of the case your team presented on in the Ethics Bowl.</item>
+	<item>____ List of Ethically Relevant Facts</item>
+	<item>____ Socio-Technical System Table + Verbal
+Explanation</item>
+	<item>____ Value Table + Problem Statement + Justification</item>
+	<item>____ List of Brainstormed Solutions + Descriptin of Refining Process + Refined list</item>
+	<item>____ Solution Evaluation Matrix + Verbal Comparison of Three Alternatives from refined solution list</item>
+	<item>____ Chosen Solution + Verbal Justification</item>
+	<item>____ Feasibility Matrix + Solution Implementation Plan concretely described and based on feasibility matrix</item>
+	<item>____ Preventive Measures (if applicable)</item>
+</list>
+			<list id="element-963" list-type="bulleted"><title>Materials Required from Ethics Bowl</title>
+ <item>_____Ethics Bowl Score Sheets</item>
+
+	<item>_____The decision point your team <emphasis>presented</emphasis> on in the competition</item>
+	<item>_____The decision point your team <emphasis>commented</emphasis> on in the competition</item></list><list id="element-22" list-type="bulleted"><title>____ Group Self-Evaluation Form including...</title>
+				<item>____ a list of the goals your group set for itself</item>
+				<item>____ a carefully prepared, justified, and documented assessment of your group's success in reaching these goals</item>
+				<item>____ a careful assessment of what you did and did not learn in this activity</item>
+				<item>____ a discussion of obstacles you encountered and the measures your group took to overcome these</item>
+				<item>____ a discussion of member participation and contribution including the member contriution forms</item>
+				<item>____ a general discussion of what worked and what did not work for you and your group in this activity</item></list>
+			<para id="id5334629">_____Each member will turn in a filled out
+Team Member Evaluation Form.  This form can be accessed through the media file listed above.  It is suggested that you do this anonomously by turning in your Team Member Evaluation Form in a sealed envelop with the rest of these materials.  You are to evaluate yourself along with your teammates on the criteria mentioned in the form.  Use the scale suggested in the form.</para>
+			<list id="id5334655" list-type="bulleted"><title>Group Portfolios Include...</title>
+	<item>_____Virtue Tables including the moral exemplar profile your group prepared and presented.</item>
+	<item>_____The justification using the rights framework of the right assigned to your group.  This was one of the rights asserted by engineers against their corporate employers.</item>
+	<item>_____A one page summary of how you developed your role in the Incident at Morales <emphasis>"Vista Publica."</emphasis></item>
+	<item>_____The code or statement of values summary prepared by your group as a part of the Pirate Code of Ethics module.  This summary focused on one of six organizations: East Texas Cancer Center, Biomatrix, Toysmart, Hughes Aircraft, CIAPR, or AECL (in the Therac case).</item>
+</list><para id="element-232">Copy-paste this checklist, examine the assembled materials prepared by your group, and check the items your group has completed. Then read, copy-paste, and sign the following pledge.</para><list id="element-204" list-type="bulleted"><title>Group Pledge</title>
+				<item><emphasis>I certify that these materials have been
+prepared by those who have signed below, and no one else. I certify
+that the above items have been checked and that those items with
+checkmarks indicate materials that we have turned in. I also
+certify that we have not plagiarized any material but have given
+due acknowledgment to all sources used. All who sign below and
+whose names are included on the title page of this report have
+participated fully in the preparation of this project and are
+equally and fully responsible for its results.</emphasis></item>
+				<item>Member signature here __________________________</item>
+				<item>Member signature here __________________________</item>
+				<item>Member signature here __________________________</item>
+				<item>Member signature here __________________________</item>
+				<item>Member signature here __________________________</item>
+				<item>Member signature here __________________________</item></list>
+		</section>
+	</content>
+</document>

@@ -1,0 +1,627 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+	<title>Three Frameworks for Ethical Problem-Solving in Business and the Professions</title>
+	<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m13757</md:content-id>
+  <md:title>Three Frameworks for Ethical Problem-Solving in Business and the Professions</md:title>
+  <md:abstract>This module provides three frameworks that are essential to problem-solving in professional and occupational contexts.  The first framework structures problem-solving by identifying four stages: <emphasis>problem specification, solution generation, solution testing</emphasis>, and <emphasis>solution implementation</emphasis>.  The second framework zeros in on the solution testing phase and offers three means of testing and ranking solution alternatives in terms of their ethics.  It consists of reversibility, harm, and publicity tests.  The third framework consists of a feasibility test designed to identify obstacles to implementing solutions that arise from situational constraints like resource, interest, and technical limitations.  These frameworks are abbreviated from materials that will eventually be published in Good Computing: A Virtue Approach to Computer Ethics that is being authored by Chuck Huff, William Frey, and Jose Cruz-Cruz.  They can also be supplemented by consulting www.computingcases.org and Engineering Ethics: Concepts and Cases by Rabins, Harris, and Pritchard. This module has been developed as a part of an NSF-funded project, "Collaborative Development of Ethics Across the Curriculum Resources and Sharing of Best Practices," NSF SES 0551779.</md:abstract>
+  <md:uuid>557a5dd2-13ed-4087-9af6-1ff11b7dddd9</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="prerequisite">
+      <link url="http://www.uvu.edu/ethics/seac/Fre-RCommentary%20on%20Kellys%20Cometic%20Surgery.pdf" strength="3">Kelly's Cosmetic Surgery</link>
+    </link-group>
+    <link-group type="supplemental">
+      <link url="http://www.computingcases.org/general_tools/sia/intro_SIA.html" strength="3">STS Background Information</link>
+      <link url="http://www.computingcases.org/general_tools/teaching_with_cases/ethics_tests/ethics_test_intro.html" strength="3">Ethics Tests Background Information</link>
+      <link url="http://www.onlineethics.org/Education/instructessays/teaching.aspx" strength="3">Ethics and Design</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+<section id="intro">
+<title>Module Introduction</title>
+
+		<para id="id6972837">In this module you will learn and practice three frameworks designed to integrate ethics into decision making in the areas of practical and occupational ethics.  The first framework divides the decision making process into four stages: <emphasis>problem specification, solution generation, solution testing, and solution implementation</emphasis>.  It is based on an <emphasis>analogy between ethics and design problems</emphasis> that is detailed in a table presented below.  The second framework focuses on the process of <emphasis>testing solution alternatives for their ethics </emphasis>by deploying three ethics tests that will help you to evaluate and rank alternative courses of action.  The reversibility, harm, and publicity tests each "encapsulate" or summarize an important ethical theory.  Finally, a <emphasis>feasibility test</emphasis> will help you to uncover interest, resource, and technical constraints that will affect and possibly impede the realization of your solution or decision.  Taken together, these three frameworks will help steer you toward designing and implementing ethical solutions to problems in the professional and occupational areas.</para><para id="id6967070">Two online resources provide more extensive background information.  The first, www.computingcases.org, provides background information on the ethics tests, socio-technical analysis, and intermediate moral concepts.  The second, http://onlineethics.org/essays/education/teaching.html, explores in more detail the analogy between ethics and design problems.  Much of this information will be published in Good Computing: A Virtue Approach to
+Computer Ethics, a textbook of cases and decision making techniques in computer ethics that is being authored by Chuck Huff, William Frey, and Jose A. Cruz-Cruz.</para>
+</section>
+
+<section id="prob">
+<title>Problem-Solving or Decision-Making
+Framework: Analogy between ethics and design</title>
+
+<para id="id6956176">Traditionally, problem-solving frameworks in professional and occupational ethics have been taken from rational decision procedures used in economics.  While these are useful, they lead one to think that ethical decisions are already "out there" waiting to be discovered.  In contrast, taking a design approach to ethical decision making emphasizes that ethical decisions must be created, not discovered.  This, in turn, emphasizes the importance of moral imagination and moral creativity.  Carolyn Whitbeck in Ethics in Engineering Practice and Research describes this aspect of ethical decision making through the analogy she draws between ethics and design problems in chapter one.  Here she rejects the idea that ethical problems are <emphasis>multiple choice problems</emphasis>. We solve ethical problems not by choosing between ready made solutions given with the situation; rather we use our moral creativity and moral imagination to design these solutions.  Chuck Huff builds on this by modifying the design method used in software engineering so that it can help structure the process of framing ethical situations and creating actions to bring these situations to a successful and ethical conclusion.  The key points in the analogy between ethical and design problems are summarized in the table presented just below.</para><table id="id5462178" summary="">
+			<tgroup cols="2">
+				<colspec colnum="1" colname="c1"/>
+				<colspec colnum="2" colname="c2"/>
+				<tbody>
+					<row>
+						<entry namest="c1" nameend="c2">Analogy between design and ethics
+problem-solving</entry>
+					</row>
+					<row>
+						<entry>Design Problem</entry>
+						<entry>Ethical Problem</entry>
+					</row>
+					<row>
+						<entry>Construct a prototype that optimizes (or satisfices)
+designated specifications</entry>
+						<entry>Construct a solution that integrates and realizes ethical
+values (justice, responsibility, reasonableness, respect, and
+safety)</entry>
+					</row>
+					<row>
+						<entry>Resolve conflicts between different specifications by means
+of integration</entry>
+						<entry>Resolve conflicts between values (moral vs. moral or moral
+vs. non-moral) by integration</entry>
+					</row>
+					<row>
+						<entry>Test prototype over the different specifications</entry>
+						<entry>Test solution over different ethical considerations
+encapsulated in ethics tests</entry>
+					</row>
+					<row>
+						<entry>Implement tested design over background constraints</entry>
+						<entry>Implement ethically tested solution over resource, interest,
+and technical constraints</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+</section>
+
+<section id="SDC">
+<title>Software Development Cycle: Four Stages</title>		
+
+<para id="id6954890"> 
+(1) problem specification, (2) solution generation, (3) solution
+testing, and (4) solution implementation.</para>
+</section>
+
+<section id="probspec">
+<title>Problem specification</title>
+
+<para id="id6279523"> 
+Problem specification involves exercising moral imagination to specify the
+socio-technical system (including the stakeholders) that will influence and will be influenced by the decision we are about to make.  Stating the problem clearly and concisely is essential to design problems; getting the problem right helps structure and channel the process of designing and implementing the solution.  There is no algorithm available to crank out effective problem specification.  Instead, we offer a series of guidelines or rules of thumb to get you started in a process that is accomplished by the skillful exercise of moral imagination.</para><para id="element-679">For a broader problem framing model see Harris, Pritchard, and Rabins, <emphasis>Engineering Ethics: Concepts and Cases,</emphasis> 2nd Edition, Belmont, CA: Wadsworth, 2000, pp. 30-56. See also Cynthia Brincat and Victoria Wike, <emphasis>Morality and Professional Life: Values at Work</emphasis>, New Jersey: Prentice Hall, 1999.</para><list id="element-819" list-type="bulleted"><title>Different Ways of Specifying the Problem</title>
+			<item>Many problems can be specified as disagreements.  For example, you disagree with your supervisor over the safety of the manufacturing environment.  Disagreements over facts can be resolved by gathering more information.  Disagreements over concepts (you and your supervisor have different ideas of what safety means) require working toward a common definition.</item>
+			<item>Other problems involve conflicting values.  You advocate installing pollution control technology because you value environmental quality and safety.  Your supervisor resists this course of action because she values maintaining a solid profit margin.  This is a conflict between a moral value (safety and environmental quality) and a nonmoral value (solid profits).  Moral values can also conflict with one another in a given situation.  Using John Doe lawsuits to force Internet Service Providers to reveal the real identities of defamers certainly protects the privacy and reputations of potential targets of defamation.  But it also places restrictions on legitimate free speech by making it possible for powerful wrongdoers to intimidate those who would publicize their wrongdoing.  Here the moral values of privacy and free speech are in conflict.  Value conflicts can be addressed by harmonizing the conflicting values, compromising on conflicting values by partially realizing them, or setting one value aside while realizing the other (=value trade offs).</item>
+			<item>If you specify your problem as a disagreement, you need to describe the facts or concepts about which there is disagreement.</item>
+			<item>If you specify your problem as a conflict, you need to describe the values that conflict in the situation.</item>
+			<item>One useful way of specifying a problem is to carry out a stakeholder analysis.  A stakeholder is any group or individual that has a vital interest at risk in the situation.  Stakeholder interests frequently come into conflict and solving these conflicts requires developing strategies to reconcile and realize the conflicting stakes.</item>
+			<item>Another way of identifying and specifying problems is to carry out a socio-technical analysis.  Socio-technical systems (STS) embody values.  Problems can be anticipated and prevented by specifying possible value conflicts.  Integrating a new technology, procedure, or policy into a socio-technical system can create three kinds of problem.  (1) Conflict between values in the technology and those in the STS.  For example, when an attempt is made to integrate an information system into the STS of a small business, the values present in an information system can conflict with those in the socio-technical system.  (Workers may feel that the new information system invades their privacy.)  (2) Amplification of existing value conflicts in the STS.  The introduction of a new technology may magnify an existing value conflict.  Digitalizing textbooks may undermine copyrights because digital media is easy to copy and disseminate on the Internet.  (3) Harmful consequences.  Introducing something new into a socio-technical system may set in motion a chain of events that will eventually harm stakeholders in the socio-technical system.  For example, giving laptop computers to public school students may produce long term environmental harm when careless disposal of spent laptops releases toxic materials into the environment.</item>
+			<item>The following table helps summarize some of these problem categories and then outlines generic solutions.</item>
+		</list><table id="id6777597" summary=""><tgroup cols="5">
+				<colspec colnum="1" colname="c1"/>
+				<colspec colnum="2" colname="c2"/>
+				<colspec colnum="3" colname="c3"/>
+				<colspec colnum="4" colname="c4"/>
+				<colspec colnum="5" colname="c5"/>
+				<tbody>
+					<row>
+						<entry>Problem Type</entry>
+						<entry>Sub-Type</entry>
+						<entry namest="c3" nameend="c5">Solution Outline</entry>
+					</row>
+					<row>
+						<entry>Disagreement</entry>
+						<entrytbl namest="c2" nameend="c5" cols="2">
+							<colspec colnum="1" colname="c1"/>
+							<colspec colnum="2" colname="c2"/>
+							<tbody>
+								<row>
+									<entry>Factual</entry>
+									<entry>Type and mode of gathering information</entry>
+								</row>
+								<row>
+									<entry>Conceptual</entry>
+									<entry>Concept in dispute and method for agreeing on its
+definition</entry>
+								</row>
+							</tbody>
+						</entrytbl>
+					</row>
+					<row>
+						<entry>Conflict</entry>
+						<entrytbl cols="1">
+							<colspec colnum="1" colname="c1"/>
+							<tbody>
+								<row>
+									<entry>Moral vs. Moral</entry>
+								</row>
+								<row>
+									<entry>Non-moral vs. moral</entry>
+								</row>
+								<row>
+									<entry>Non-moral vs. non-moral</entry>
+								</row>
+							</tbody>
+						</entrytbl>
+						<entry>Value Integrative</entry>
+						<entry>Partially Value Integrative</entry>
+						<entry>Trade Off</entry>
+					</row>
+					<row>
+						<entry>Moral Ecologies</entry>
+						<entrytbl cols="1">
+							<colspec colnum="1" colname="c1"/>
+							<tbody>
+								<row>
+									<entry>Finance-Driven Ecologies</entry>
+								</row>
+								<row>
+									<entry>Customer-Driven Ecologies</entry>
+								</row>
+								<row>
+									<entry>Quality-Driven Ecologies</entry>
+								</row>
+							</tbody>
+						</entrytbl>
+						<entry>Strategy for dissenting from a staff position where one is outside decision-making</entry>
+						<entry>Practicing ethical advocacy when "going to the mat" on ethical perspectives in group decision-making</entry>
+						<entry>Ability to draw attention to ethical values that form center of organization identity</entry>
+					</row>
+					<row>
+						<entry>Likely Concepts in Conceptual Disagreement</entry>
+						<entry>Public Intellectual Property, Faithful Agency, Professional Integrity,
+Loyalty, Public Safety and Health, Due Process, Responsible Dissent</entry>
+						<entry>Working from Legal Definitions</entry>
+						<entry>Bridging: moving from cases to concepts</entry>
+						<entry>Discussion: Playing on shared values and trust to reach consensus through dialogue</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table><para id="eip-173">The materials on moral ecologies come from Huff, C., Barnard, L., and Frey, W. (2008). “Good computing: a pedagogically focused model of virtue in the practice of computing (parts 1 and 2)”, Journal of Information, Communication and Ethics in Society, Volume 6, Issues 3 and 4: 246-316.  See also, Michael Davis, Thinking Like An Engineer, Oxford, 1998, 119-156.</para><list id="eip-132" list-type="enumerated" number-style="arabic"><title>Instructions for Using Problem Classification Table</title><item>Is your problem a conflict?  Moral versus moral value?  Moral versus non-moral values?  Non-moral versus non-moral values?  Identify the conflicting values as concisely as possible.  Example: In Toysmart, the financial values of creditors come into conflict with the privacy of individuals in the data base: financial versus privacy values.</item>
+<item>Is your problem a disagreement?  Is the disagreement over basic facts?  Are these facts observable?  Is it a disagreement over a basic concept?  What is the concept?  Is it a factual disagreement that, upon further reflection, changes into a conceptual disagreement?</item>
+<item>Does your problem arise from an impending harm?  What is the harm?  What is its magnitude?  What is the probability that it will occur?</item>
+<item>If your problem is a value conflict then can these values be fully integrated in a value integrating solution?  Or must they be partially realized in a compromise or traded off against one another?</item>
+<item>If your problem is a factual disagreement, what is the procedure for gathering the required information, if this is feasible?</item>
+<item>If your problem is a conceptual disagreement, how can this be overcome?  By consulting a government policy or regulation?  (OSHA on safety for example.)  By consulting a theoretical account of the value in question?  (Reading a philosophical analysis of privacy.)  By collecting past cases that involve the same concept and drawing analogies and comparisons to the present case?</item>
+</list><list id="eip-962"><title>Moral Ecologies</title><item>"Moral Ecology" refers to the organization in which one works.  Calling this organization an "ecology" conveys the idea that it is a system of interrelated parts.  These "ecologies" differ depending on the content of the organization's central, identity-conferring values.</item>
+<item>In finance-driven companies, financial values form the core of the organization's identity.  Ethical advocacy requires skills in bringing ethical issues to the attention of decision-makers and getting them to take these issues seriously.  It helps to state ethical concerns in multi-disciplinary language.  (For example, show that ignoring ethical concerns will cost the company money in the long run.)</item>
+<item>Customer-driven ecologies place customer values like usability, affordability, and efficiency, in the forefront of group deliberation and decision-making.  Often, one must play the role of "ethics advocate" in deliberation and decision-making.  One is expected to argue forcefully and persistently ("go to the mat") to make sure that ethical considerations are integrated into group deliberations and decision-making.</item>
+<item>Quality-driven companies place ethical values into the core of group deliberations and decision-making.  Here one is not so much ethics advocate as ethics enabler.  This new role requires that one help one's group find creative ways of integrating ethical values with other concerns like customer and financial values.</item></list><list id="eip-468"><title>If you are having problems specifying your problem</title><item>Try identifying the stakeholders.  Stakeholders are any group or individual with a vital interest at stake in the situation at hand.</item>
+<item>Project yourself imaginatively into the perspectives of each stakeholders.  How does the situation look from their standpoint?  What are their interests?  How do they feel about their interests?</item>
+<item>Compare the results of these different imaginative projections.  Do any stakeholder interests conflict?  Do the stakeholders themselves stand in conflict?</item>
+<item>If the answer to one or both of these questions is "yes" then this is your problem statement.  How does one reconcile conflicting stakeholders or conflicting stakeholder interests in this situation?</item></list><list id="eip-18"><title>Framing Your Problem</title><item>We miss solutions to problems because we choose to frame them in only one way.</item>
+<item>For example, the Mountain Terrorist Dilemma is usually framed in only one way: as a dilemma, that is, a forced decision between two equally undesirable alternatives.  (Gilbane Gold is also framed as a dilemma: blow the whistle on Z-Corp or go along with the excess polution.)</item>
+<item>Framing a problem differently opens up new horizons of solution.  Your requirement from this point on in the semester is to frame every problem you are assigned in at least two different ways.</item>
+<item>For examples of how to frame problems using socio-technical system analysis see module m14025.</item>
+<item>These different frames are summarized in the next box below.</item></list><list id="eip-893"><title>Different Frames for Problems</title><item><emphasis>Technical Frame</emphasis>: Engineers frame problems technically, that is, they specify a problem as raising a technical issue and requiring a technical design for its resolution.  For example, in the Hughes case, a technical frame would raise the problem of how to streamline the manufacturing and testing processes of the chips.</item>
+ 
+<item><emphasis>Physical Frame</emphasis>: In the Laminating Press case, the physical frame would raise the problem of how the layout of the room could be changed to reduce the white powder.  Would better ventilation eliminate or mitigate the white powder problem?</item> 
+
+<item><emphasis>Social Frame</emphasis>: In the "When in Aguadilla" case, the Japanese engineer is uncomfortable working with the Puerto Rican woman engineer because of social and cultural beliefs concerning women still widely held by men in Japan.  Framing this as a social problem would involve asking whether there would be ways of getting the Japanese engineer to see things from the Puerto Rican point of view. </item>
+
+<item><emphasis>Financial or Market-Based Frames</emphasis>: The DOE, in the Risk Assessment case below, accuses the laboratory and its engineers of trying to extend the contract to make more money.  The supervisor of the head of the risk assessment team pressures the team leader to complete the risk assessment as quickly as possible so as not to lose the contract.  These two framings highlight financial issues.</item> 
+
+<item><emphasis>Managerial Frame</emphasis>: As the leader of the Puerto Rican team in the "When in Aguadilla" case, you need to exercise leadership in your team.  The refusal of the Japanese engineer to work with a member of your team creates a management problem.  What would a good leader, a good manager, do in this situation?  What does it mean to call this a management problem?  What management strategies would help solve it?</item>
+ 
+<item><emphasis>Legal Frame</emphasis>: OSHA may have clear regulations concerning the white powder produced by laminating presses.  How can you find out about these regulations?  What would be involved in complying with them?  If they cost money, how would you get this money?  These are questions that arise when you frame the Laminating Press case as a legal problem. </item>
+ 
+<item><emphasis>Environmental Framing</emphasis>: Finally, viewing your problem from an environmental frame leads you to consider the impact of your decision on the environment.  Does it harm the environment?  Can this harm be avoided?  Can it be mitigated?  Can it be offset?  (Could you replant elsewhere the trees you cut down to build your new plant?)  Could you develop a short term environmental solution to "buy time" for designing and implementing a longer term solution?  Framing your problem as an environmental problem requires that you ask whether this solution harms the environment and whether this harming can be avoided or remedied in some other way.  </item>
+</list>
+</section>
+
+<section id="solgen">
+<title>Solution Generation</title>
+
+		<para id="id6193739"> In solution generation, agents exercise moral
+creativity by brainstorming to come up with solution options
+designed to resolve the disagreements and value conflicts identified in the problem
+specification stage. Brainstorming is crucial to generating nonobvious solutions to difficult, intractable problems.  This process must take place within a non-polarized environment where the members of the group respect and trust one another.  (See the module on the Ethics of Group Work for more information on how groups can be successful and pitfalls that commonly trip up groups.)  Groups effectively initiate the brainstorming process by suspending criticism and analysis.  After the process is completed (say, by meeting a quota), then participants can refine the solutions generated by combining them, eliminating those that don't fit the problem, and ranking them in terms of their ethics and feasibility.  If a problem can't be solved, perhaps it can be dissolved through reformulation.  If an entire problem can't be solve, perhaps the problem can be broken down into parts some of which can be readily solved. </para><list id="eip-285"><title>Having trouble generating solutions?</title><item>One of the most difficult stages in problem solving is to jump start the process of brainstorming solutions. If you are stuck then here are some generic options guaranteed to get you "unstuck."</item>
+
+<item><emphasis>Gather Information</emphasis>: Many disagreements can be resolved by gathering more information. Because this is the easiest and least painful way of reaching consensus, it is almost always best to start here. Gathering information may not be possible because of different constraints: there may not be enough time, the facts may be too expensive to gather, or the information required goes beyond scientific or technical knowledge. Sometimes gathering more information does not solve the problem but allows for a new, more fruitful formulation of the problem. Harris, Pritchard, and Rabins in Engineering Ethics: Concepts and Cases show how solving a factual disagreement allows a more profound conceptual disagreement to emerge.</item> 
+
+<item><emphasis>Nolo Contendere</emphasis>. Nolo Contendere is latin for not opposing or contending. Your interests may conflict with your supervisor but he or she may be too powerful to reason with or oppose. So your only choice here is to give in to his or her interests. The problem with nolo contendere is that non-opposition is often taken as agreement. You may need to document (e.g., through memos) that your choosing not to oppose does not indicate agreement.</item>
+ 
+<item><emphasis>Negotiate</emphasis>. Good communication and diplomatic skills may make it possible to negotiate a solution that respects the different interests. Value integrative solutions are designed to integrate conflicting values. Compromises allow for partial realization of the conflicting interests. (See the module, The Ethics of Team Work, for compromise strategies such as logrolling or bridging.) Sometimes it may be necessary to set aside one's interests for the present with the understanding that these will be taken care of at a later time. This requires trust.</item>
+ 
+<item><emphasis>Oppose</emphasis>. If nolo contendere and negotiation are not possible, then opposition may be necessary. Opposition requires marshalling evidence to document one's position persuasively and impartially. It makes use of strategies such as leading an "organizational charge" or "blowing the whistle." For more on whistle-blowing consult the discussion of whistle blowing in the Hughes case that can be found at computing cases.</item>
+ 
+<item><emphasis>Exit</emphasis>. Opposition may not be possible if one lacks organizational power or documented evidence. Nolo contendere will not suffice if non-opposition implicates one in wrongdoing. Negotiation will not succeed without a necessary basis of trust or a serious value integrative solution. As a last resort, one may have to exit from the situation by asking for reassignment or resigning. </item></list><list id="eip-226"><title>Refining solutions</title><item>Are any solutions blatantly unethical or unrealizable?</item>
+<item>Do any solutions overlap?  Can these be integrated into broader solutions?</item>
+<item>Can solutions be brought together as courses of action that can be pursued simultaneously?</item>
+<item>Go back to the problem specification?  Can any solutions be eliminated because they do not address the problem?  (Or can the problem be revised to better fit what, intuitively, is a good solution.)</item>
+<item>Can solutions be brought together as successive courses of action?  For example, one solution represents Plan A; if it does not work then another solution, Plan B, can be pursued.  (You negotiate the problem with your supervisor.  If she fails to agree, then you oppose your supervisor on the grounds that her position is wrong.  If this fails, you conform or exit.)</item>
+<item><emphasis>The goal here is to reduce the solution list to something manageable, say, a best, a second best, and a third best.  Try adding a bad solution to heighten strategic points of comparison.  The list should be short so that the remaining solutions can be intensively examined as to their ethics and feasibility.</emphasis></item></list>
+</section>
+
+<section id="soltest">
+<title>Solution Testing:
+	The solutions developed in the second stage
+must be tested in various ways.</title>
+
+<list id="element-97" list-type="enumerated"><item><emphasis>Reversibility</emphasis>: Would I still think the choice of this option good if I were one of those adversely affected by it?  (Davis uses this formulation in various publications.)  I identify different stakeholders and then take up their roles.  Through this imaginative projection, I should consider how the action under consideration will affect them and how they will view, interpret, and experience this affect.</item>
+			<item><emphasis>Harm</emphasis>: Does this option do less harm than any available alternative?  Here I try to design an action that will minimize harmful effects.  I should factor in the likely results of the action under consideration but I should also evaluate how justly these results will be distributed among stakeholders. </item>
+			<item><emphasis>Publicity</emphasis>: What kind of person will I become if I choose this action?  This is Davis' formulation of this test as a virtue test.  The key to this test is that you associate the agent with the action.  If I (the agent) am publicly judged as a person in terms of this action, what does this say about me as a person?  Am I comfortable being judged an irresponsible person on the basis of my being identified with my irresponsible action?</item>
+			<item><emphasis>Meta-Test -  Convergence</emphasis>: Do a quick inventory here.  Do the ethics tests come together and agree on ranking this solution as a strong one?  Then this solution satisfies the convergence meta-test and this provides independent evidence of the strength of the solution.</item>
+			<item><emphasis>Meta-Test -  Divergence</emphasis>: Again, do a quick inventory of your solution evaluation matrix results to this point.  Do the tests differ or diverge on this point?  This is independent evidence of the weakness of this solution.  Think about why this solution may be strong under one test but weak under the others.</item>
+			<item>The solution evaluation matrix presented just below models and summarizes the solution testing process.</item></list><table id="id6806279" summary="This table represents a solution evaluation matrix. It compares and tests each solution according to reversibility, harm, publicity, code and feasibility tests."><title>Solution Evaluation Matrix</title>
+<tgroup cols="6"><colspec colnum="1" colname="c1"/>
+				<colspec colnum="2" colname="c2"/>
+				<colspec colnum="3" colname="c3"/>
+				<colspec colnum="4" colname="c4"/>
+				<colspec colnum="5" colname="c5"/>
+				<colspec colnum="6" colname="c6"/>
+				<tbody>
+					<row>
+						<entry>Solution/Test</entry>
+						<entry><emphasis>Reversibility</emphasis></entry>
+						<entry><emphasis>Harm</emphasis></entry>
+						<entry><emphasis>Publicity</emphasis></entry>
+						<entry><emphasis>Meta-Test: Convergence</emphasis></entry>
+						<entry><emphasis>Meta-Test: Divergence</emphasis></entry>
+					</row>
+					<row>
+						<entry>Description</entry>
+						<entry>Would I still think the choice of this option good if I were one of those adversely affected by it?  (Davis)</entry>
+						<entry>Does this option do less harm than any available alternative?</entry>
+						<entry>What person would I become were I to choose and perform this action?  (Associating my character with the moral color of the action.)</entry>
+						<entry>Do the three ethics tests (reversibility, harm, publicity) come together on this solution?</entry>
+						<entry>Do the three ethics tests (reversibility, harm, publicity) differ on this solution?</entry>
+					</row>
+					<row>
+						<entry>Your best solution</entry>
+						<entry/>
+						<entry/>
+						<entry/>
+						<entry/>
+						<entry/>
+					</row>
+					<row>
+						<entry>A good (but not the best) solution</entry>
+						<entry/>
+						<entry/>
+						<entry/>
+						<entry/>
+						<entry/>
+					</row>
+					<row>
+						<entry>Your worst solution or a really bad solution</entry>
+						<entry/>
+						<entry/>
+						<entry/>
+						<entry/>
+						<entry/>
+					</row>
+				</tbody>
+			
+
+
+
+
+
+</tgroup>
+</table></section>
+
+<section id="solimp">
+<title>Solution Implementation</title>
+
+		<para id="element-815">The chosen solution must be examined in terms
+of how well it responds to various situational constraints that
+could impede its implementation. What will be its costs? Can it be
+implemented within necessary time constraints? Does it honor
+recognized technical limitations or does it require pushing these
+back through innovation and discovery? Does it comply with legal
+and regulatory requirements? Finally, could the surrounding
+organizational, political, and social environments give rise to
+obstacles to the implementation of the solution? In general this
+phase requires looking at interest, technical, and resource
+constraints or limitations. A Feasibility Matrix helps to guide
+this process. </para><para id="element-285">The Feasibility Tests focuses on situational
+constraints. How could these hinder the implementation of the
+solution? Should the solution be modified to ease implementation?
+Can the constraints be removed or remodeled by negotiation,
+compromise, or education? Can implementation be facilitated by
+modifying both the solution and changing the constraints? </para><table id="id6565805" summary="">
+			<tgroup cols="3">
+				<colspec colnum="1" colname="c1"/>
+				<colspec colnum="2" colname="c2"/>
+				<colspec colnum="3" colname="c3"/>
+				<tbody>
+					<row>
+						<entry namest="c1" nameend="c3">Feasibility Matrix</entry>
+					</row>
+					<row>
+						<entry>Resource Constraints</entry>
+						<entry>Technical Constraints</entry>
+						<entry>Interest Constraints</entry>
+					</row>
+					<row>
+						<entry/>
+						<entry/>
+						<entry>Personalities</entry>
+					</row>
+					<row>
+						<entry>Time</entry>
+						<entry/>
+						<entry>Organizational</entry>
+					</row>
+					<row>
+						<entry>Cost</entry>
+						<entry>Applicable Technology</entry>
+						<entry>Legal</entry>
+					</row>
+					<row>
+						<entry>Materials</entry>
+						<entry>Manufacturability</entry>
+						<entry>Social, Political, Cultural</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table><list id="element-698" list-type="enumerated"><title>Different Feasibility Constraints</title>
+	<item>The Feasibility
+Test identifies the constraints that could interfere with
+realizing a solution. This test also sorts out these constraints into
+<emphasis>resource</emphasis> (time, cost, materials), <emphasis>interest</emphasis> (individuals,
+organizations, legal, social, political), and <emphasis>technical</emphasis>
+limitations. By identifying situational constraints,
+problem-solvers can anticipate implementation problems and take
+early steps to prevent or mitigate them.</item>
+	<item><emphasis>Time</emphasis>. Is there a deadline within which the
+solution has to be enacted? Is this deadline fixed or
+negotiable?</item>
+	<item><emphasis>Financial</emphasis>. Are there cost constraints on
+implementing the ethical solution? Can these be extended by raising
+more funds? Can they be extended by cutting existing costs? Can
+agents negotiate for more money for implementation?</item>
+	<item><emphasis>Technical</emphasis>. Technical limits constrain the
+ability to implement solutions. What, then, are the technical
+limitations to realizing and implementing the solution? Could these
+be moved back by modifying the solution or by adopting new
+technologies?</item>
+	<item><emphasis>Manufacturability</emphasis>. Are there manufacturing
+constraints on the solution at hand? Given time, cost, and
+technical feasibility, what are the manufacturing limits to
+implementing the solution? Once again, are these limits fixed or
+flexible, rigid or negotiable?</item>
+	<item><emphasis>Legal</emphasis>. How does the proposed solution stand
+with respect to existing laws, legal structures, and regulations?
+Does it create disposal problems addressed in existing regulations?
+Does it respond to and minimize the possibility of adverse legal
+action? Are there legal constraints that go against the ethical
+values embodied in the solution? Again, are these legal constraints
+fixed or negotiable?</item>
+	<item><emphasis>Individual Interest Constraints</emphasis>.
+Individuals with conflicting interests may oppose the
+implementation of the solution. For example, an insecure supervisor
+may oppose the solution because he fears it will undermine his
+authority. Are these individual interest constraints fixed or
+negotiable?</item>
+	<item><emphasis>Organizational</emphasis>. Inconsistencies between the
+solution and the formal or informal rules of an organization may
+give rise to implementation obstacles. Implementing the solution
+may require support of those higher up in the management hierarchy.
+The solution may conflict with organization rules, management
+structures, traditions, or financial objectives. Once again, are
+these constraints fixed or flexible?</item>
+	<item><emphasis>Social, Cultural, or Political</emphasis>. The
+socio-technical system within which the solution is to be
+implemented contains certain social structures, cultural
+traditions, and political ideologies. How do these stand with
+respect to the solution? For example, does a climate of suspicion
+of high technology threaten to create political opposition to the
+solution? What kinds of social, cultural, or political problems
+could arise? Are these fixed or can they be altered through
+negotiation, education, or persuasion?</item></list>
+</section>
+
+<section id="ettests">
+<title>Ethics Tests For Solution Evaluation</title>
+
+		<para id="id6745500"> 
+Three ethics tests (reversibility,
+harm/beneficence, and public identification) encapsulate three
+ethical approaches (deontology, utilitarianism, and virtue ethics)
+and form the basis of stage three of the SDC, solution testing. A
+fourth test (a value realization test) builds upon the public identification/virtue ethics test by evaluating a solution in terms of the values it harmonizes, promotes, protects, or realizes.  Finally a code test provides an independent check on the
+ethics tests and also highlights intermediate moral concepts such as safety, health, welfare,
+faithful agency, conflict of interest, confidentiality,
+professional integrity, collegiality, privacy, property, free
+speech, and equity/access). The following section provides advice on how to use these tests. More information can be found at www.computingcases.org. </para>
+</section>
+
+<section id="SetUp">
+<title>Setting Up the Ethics Tests: Pitfalls to avoid</title>
+
+<para id="id6835693">Set-Up Pitfalls: Mistakes in this area lead to
+the analysis becoming unfocused and getting lost in irrelevancies.
+(a) Agent-switching where the analysis falls prey to irrelevancies
+that crop up when the test application is not grounded in the
+standpoint of a single agent, (b) Sloppy action-description where
+the analysis fails because no specific action has been tested, (c)
+Test-switching where the analysis fails because one test is
+substituted for another. (For example, the public identification
+and reversibility tests are often reduced to the harm/beneficence
+test where harmful consequences are listed but not associated with
+the agent or stakeholders.)</para>
+		<list id="element-962" list-type="enumerated"><title>Set up the test</title>
+			<item>Identify the agent (the person who is
+going to perform the action)</item>
+			<item>Describe the action or solution
+that is being tested (what the agent is going to do or perform)</item>
+			<item>Identify the stakeholders (those individuals or groups who are
+going to be affected by the action), and their stakes (interests,
+values, goods, rights, needs, etc.</item>
+			<item>Identify, sort out, and
+weigh the consequences (the results the action is likely to bring
+about)</item></list>
+</section>
+
+<section id="HB">
+<title>Harm/Beneficence Test</title>
+
+<list id="element-250" list-type="bulleted"> 
+			<item>What harms would accompany the action under
+consideration? Would it produce physical or mental suffering,
+impose financial or non-financial costs, or deprive others of
+important or essential goods?</item>
+			<item>What benefits would this action bring
+about? Would it increase safety, quality of life, health, security,
+or other goods both moral and non-moral?</item>
+			<item>What is the magnitude of each these
+consequences? Magnitude includes likelihood it will occur
+(probability), the severity of its impact (minor or major harm) and
+the range of people affected.</item>
+			<item>Identify one or two other viable
+alternatives and repeat these steps for them. Some of these may be
+modifications of the basic action that attempt to minimize some of
+the likely harms. These alternatives will establish a basis for
+assessing your alternative by comparing it with others.</item>
+			<item>Decide on the basis of the test which
+alternative produces the best ratio of benefits to harms?</item>
+			<item>Check for inequities in the distribution of
+harms and benefits. Do all the harms fall on one individual (or
+group)? Do all of the benefits fall on another? If harms and
+benefits are inequitably distributed, can they be redistributed?
+What is the impact of redistribution on the original solution
+imposed?</item></list><list id="element-542" list-type="enumerated"><title>Pitfalls of the Harm/Beneficence Test</title>
+			<item>“Paralysis of Analysis" comes from considering too many consequences and not focusing only on those relevant to your decision.</item>
+			<item>Incomplete
+Analysis results from considering too few consequences. Often it indicates a failure of moral imagination which, in this case, is the ability to envision the consequences of each action alternative.</item>
+			<item>Failure to compare different alternatives can lead to a decision that is too limited and one-sided.</item>
+			<item>Failure to weigh harms against benefits occurs when decision makers lack the experience to make the qualitative comparisons required in ethical decision making.</item>
+			<item>Finally, justice failures result from
+ignoring the fairness of the distribution of harms and
+benefits.  This leads to a solution which may maximize benefits and minimize harms but still give rise to serious injustices in the distribution of these benefits and harms.</item></list>
+</section>
+
+<section id="rev">
+<title>Reversibility Test</title>
+
+<list id="element-535" list-type="enumerated"> 
+			<item>Set up the test by (i) identifying the
+agent, (ii) describing the action, and (iii) identifying the
+stakeholders and their stakes.</item>
+			<item>Use the stakeholder analysis to identify
+the relations to be reversed.</item>
+			<item>Reverse roles between the agent (you) and
+each stakeholder: put them in your place (as the agent) and
+yourself in their place (as the one subjected to the
+action).</item>
+			<item>If you were in their place, would you still
+find the action acceptable?</item></list><list id="element-791" list-type="bulleted"><title>Cross Checks for Reversibility Test (These questions help you to check if you have carried out the reversibility test properly.)</title>
+			<item>Does the proposed action treat others with
+respect? (Does it recognize their autonomy or circumvent
+it?)</item>
+			<item>Does the action violate the rights of others?
+(Examples of rights: free and informed consent, privacy, freedom of
+conscience, due process, property, freedom of expression)</item>
+			<item>Would you recommend that this action become a
+universal rule?</item>
+			<item>Are you, through your action, treating others merely as means?</item></list><list id="element-270" list-type="bulleted"><title>Pitfalls of the Reversibility Test</title>
+			<item>Leaving out a key stakeholder relation</item>
+			<item>Failing to recognize and address conflicts between stakeholders
+and their conflicting stakes</item>
+			<item>Confusing treating others with
+respect with capitulating to their demands (“Reversing with
+Hitler”)</item>
+			<item>Failing to reach closure, i.e., an overall, global
+reversal assessment that takes into account all the stakeholders
+the agent has reversed with.</item></list>
+</section>
+
+<section id="pid">
+<title>Steps in Applying the Public Identification Test</title>
+
+<list id="element-875" list-type="bulleted"> 			
+<item>Set up the analysis by identifying the agent, describing the action, and listing the key values or virtues at play in the situation.</item>
+			<item>Association the action with the agent.</item>
+			<item>Describe what the action says about the agent as a person.  Does it reveal him or her as someone associated with a virtue or a vice?</item>
+		</list><list id="element-24" list-type="bulleted"><title>Alternative Version of Public Identification</title><item>Does the action under consideration realize justice or does it pose an excess or defect of justice?</item>
+			<item>Does the action realize responsibility or pose an excess or defect of responsibility?</item>
+			<item>Does the action realize reasonableness or pose too much or too little reasonableness?</item>
+			<item>Does the action realize honesty or pose too much or too little honesty?</item>
+			<item>Does the action realize integrity or pose too much or too little integrity?</item></list><list id="element-467" list-type="bulleted"><title>Pitfalls of Public Identification</title>
+			<item>Action not associated with agent. The most
+common pitfall is failure to associate the agent and the action.
+The action may have bad consequences and it may treat individuals
+with respect but these points are not as important in the context
+of this test as what they imply about the agent as a person who
+deliberately performs such an action.</item>
+			<item>Failure to specify moral quality, virtue,
+or value. Another pitfall is to associate the action and agent but
+only ascribe a vague or ambiguous moral quality to the agent. To
+say, for example, that willfully harming the public is bad fails to
+zero in on precisely what moral quality this ascribes to the agent.
+Does it render him or her unjust, irresponsible, corrupt,
+dishonest, or unreasonable? The virtue list given above will help
+to specify this moral quality.</item></list>
+</section>
+
+<section id="code">
+<title>Code of Ethics Test</title>
+
+<list id="element-678" list-type="bulleted"> 
+			<item>Does the action hold paramount the health,
+safety, and welfare of the public, i.e., those affected by the
+action but not able to participate in its design or
+execution?</item>
+			<item>Does the action maintain faithful agency
+with the client by not abusing trust, avoiding conflicts of
+interest, and maintaining confidences?</item>
+			<item>Is the action consistent with the
+reputation, honor, dignity, and integrity of the profession?</item>
+			<item>Does the action serve to maintain collegial
+relations with professional peers?</item></list>
+</section>
+
+<section id="meta">
+<title>Meta Tests</title>
+
+<list id="element-267" list-type="bulleted"> 			<item>The ethics and feasibility tests will not always converge on the same solution.  There is a complicated answer for why this is the case but the simple version is that the tests do not always agree on a given solution because each test (and the ethical theory it encapsulates) covers a different domain or dimension of the action situation.  Meta tests turn this disadvantage to your advantage by feeding the interaction between the tests on a given solution back into the evaluation of that solution.</item>
+			<item>When the ethics tests converge on a given
+solution, this convergence is a sign of the strength and robustness
+of the solution and counts in its favor.</item>
+			<item>When a given solution responds well to one
+test but does poorly under another, this is a sign that the
+solution needs further development and revision. It is not a sign
+that one test is relevant while the others are not. Divergence
+between test results is a sign that the solution is weak.</item></list>
+</section>
+
+
+
+<section id="ex">		
+<title>Application Exercise</title>
+
+<para id="element-452"> You will now practice the four stages of decision making with a real world case.  This case, Risk Assessment, came from a retreat on Business, Science, and Engineering Ethics held in Puerto Rico in December 1998.  It was funded by the National Science Foundation, Grant SBR 9810253. </para><para id="element-198"><title>Risk Assessment Scenario</title>
+Case Scenario: You supervise a group of engineers working for a private laboratory with expertise in nuclear waste disposal and risk assessment.  The DOE (Department of Energy) awarded a contract to your laboratory six years ago to do a risk assessment of various nuclear waste disposal sites.  During the six years in which your team has been doing the study, new and more accurate calculations in risk assessment have become available.  Your laboratory’s study, however, began with the older, simpler calculations and cannot integrate the newer without substantially delaying completion.
+
+You, as the leader of the team, propose a delay to the DOE on the grounds that it is necessary to use the more advanced calculations.  Your position is that the laboratory needs more time because of the extensive calculations required; you argue that your group must use state of the art science in doing its risk assessment.  The DOE says you are using overly high standards of risk assessment to prolong the process, extend the contract, and get more money for your company.  They want you to use simpler calculations and finish the project; if you are unwilling to do so, they plan to find another company that thinks differently.  Meanwhile, back at the laboratory, your supervisor (a high level company manager) expresses to you the concern that while good science is important in an academic setting, this is the real world and the contract with the DOE is in jeopardy.
+
+What should you do?
+</para><list id="element-560" list-type="enumerated"><title>Part One: Problem Specification</title>
+			<item>Specify the problem in the above scenario.  Be as concise and specific as possible</item>
+			<item>Is your problem best specifiable as a disagreement?  Between whom?  Over what?</item>
+			<item>Can your problem be specified as a value conflict?  What are the values in conflict?  Are the moral, nonmoral, or both?</item></list><list id="element-981" list-type="enumerated"><title>Part Two: Solution Generation</title>
+			<item>Quickly and without analysis or criticism brainstorm 5 to ten solutions</item>
+			<item>Refine your solution list.  Can solutions be eliminated?  (On what basis?)  Can solutions be combined?  Can solutions be combined as plan a and plan b?</item>
+			<item>If you specified your problem as a disagreement, how do your solutions resolve the disagreement?  Can you negotiate interests over positions?  What if your plan of action doesn't work?</item>
+			<item>If you formulated your problem as a value conflict, how do your solutions resolve this conflict?  By integrating the conflicting values?  By partially realizing them through a value compromise?  By trading one value off for another?</item></list><list id="element-720" list-type="enumerated"><title>Part Three: Solution Testing</title>
+			<item>Construct a solution evaluation matrix to compare two to three solution alternatives.</item>
+			<item>Choose a bad solution and then compare to it the two strongest solutions you have.</item>
+			<item>Be sure to avoid the pitfalls described above and set up each test carefully.</item></list><list id="element-952" list-type="enumerated"><title>Part Four: Solution Implementation</title>
+			<item>Develop an implementation plan for your best solution.  This plan should anticipate obstacles and offer means for overcoming them.</item>
+			<item>Prepare a feasibility table outlining these issues using the table presented above.</item>
+			<item>Remember that each of these feasibility constraints is negotiable and therefore flexible.  If you choose to set aside a feasibility constraint then you need to outline how you would negotiate the extension of that constraint.</item></list><figure id="element-23"><title>Decision-Making Presentation</title><media id="id12758000" alt=""><download src="Decision Making Manual V4.pptx" mime-type="application/vnd.ms-powerpoint"/></media>
+   <caption>Clicking on this figure will allow you to open a presentation designed to introduce problem solving in ethics as analogous to that in design, summarize the concept of a socio-technical system, and provide an orientation in the four stages of problem solving.  This presentation was given February 28, 2008 at UPRM for ADMI 6005 students, Special Topics in Research Ethics.</caption></figure><para id="eip-299"><title>Problem Solving Presentation</title><media id="Prob-pres" alt="Problem Solving Presentation">
+  <download mime-type="application/zip" src="Decision Making Manual V5.pptx"/>
+</media>
+</para><para id="eip-225"><title>Shortened Presentation for Fall 2012</title><media id="Prob-pres6" alt="Problem Solving Presentation Short Version">
+  <download mime-type="application/zip" src="Decision Making Manual V6.pptx"/>
+</media>
+</para><para id="eip-367"><title>Vigo Socio-Technical System Table and Problems</title><media id="STS-table" alt="Vigo Socio-Technical System Table">
+  <download mime-type="application/zip" src="Vigo STS.docx"/>
+</media>
+</para><para id="element-788"><figure id="fig1"><title>Decision Making Worksheet</title><media id="id10312186" alt="Managing Work Teams"><download src="Decision Making Worksheet.docx" mime-type="application/octet-stream"/></media><caption>This exercise is designed to give you practice with the three frameworks described in this module.  It is based on the case, "When in Aguadilla."</caption></figure>
+</para><para id="eip-805"><title>Test Rubric Fall 2009: Problem-Solving</title><media id="id10312187" alt="Rubric"><download src="PE_Rubric_EO_S09.docx" mime-type="application/octet-stream"/></media></para>
+
+</section>
+
+</content>
+</document>

@@ -1,0 +1,44 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10411</md:content-id>
+    <md:title>Using the Ethics Bowl to Integrate Ethics into the Business and Professional Curriculum</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>1f5747fd-c8c3-485a-9437-e13c6b983669</md:uuid>
+<md:slug>using-the-ethics-bowl-to-integrate-ethics-into-the-business-and-professional-curriculum</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Emerging out of the IIT EAC Workshop</md:title>
+      <col:content>
+        <col:module document="m14386"/>
+        <col:module document="m14387"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Ethics Bowl in the Classroom</md:title>
+      <col:content>
+        <col:module document="m13817"/>
+        <col:module document="m13852"/>
+        <col:module document="m13757"/>
+        <col:module document="m14408"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Ethics Bowl Debriefing and Assessment</md:title>
+      <col:content>
+        <col:module document="m13759"/>
+        <col:module document="m13760"/>
+        <col:module document="m14059"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Adaptation of Ethics Bowl to Environments of the Organizaton</md:title>
+      <col:content>
+        <col:module document="m21191"/>
+        <col:module document="m33090"/>
+        <col:module document="m33162"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

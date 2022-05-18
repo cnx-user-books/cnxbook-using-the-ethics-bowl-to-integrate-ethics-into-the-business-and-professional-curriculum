@@ -1,0 +1,441 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+	<title>Ethics Bowl for Environments of the Organization</title>
+	<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m21191</md:content-id>
+  <md:title>Ethics Bowl for Environments of the Organization</md:title>
+  <md:abstract>This module describes how to incorporate ethical considerations into business cases through an Ethics Bowl competition and a written follow-up analysis.  It assumes knowledge of ethics tests and a values framework.  By working through the competition and follow-up activities, students gain an invaluable opportunity to practice skills in ethical problem solving, communication, and team work.  This module makes use of materials provided through the Ethics Bowl competition held annually at meetings of the Association for Practical and Professional Ethics.  Information on the national competition, devised by Dr. Robert Ladenson, can be found at the website of the Center for the Study of Ethics in the Professions, www.iit.edu/departments/csep. This module is being developed as a part of an NSF-funded project, "Collaborative Development of Ethics Across the Curriculum Resources and Sharing of Best Practices," NSF SES 0551779.</md:abstract>
+  <md:uuid>b2751542-8385-4914-b01c-f7b912f5e60b</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="example">
+      <link url="http://cnx.org/content/m31972/latest/" strength="2">Enron Case</link>
+      <link url="http://cnx.org/content/m13765/latest/" strength="2">Therac-25 Case</link>
+      <link url="http://cnx.org/content/m17318/latest/" strength="2">Wal Mart</link>
+    </link-group>
+    <link-group type="prerequisite">
+      <link url="http://cnx.org/content/m14789/latest/" strength="3">Toysmart Case</link>
+      <link url="http://cnx.org/content/m15817/latest/" strength="3">Biomatrix Case</link>
+      <link url="http://cnx.org/content/m14036/latest/" strength="3">Hughes Case</link>
+      <link url="http://libnet.colorado.edu/Bell/" strength="3">Bell: Business Ethics Links Library</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+		<section id="intro">
+			<title>Module Introduction</title>
+			<para id="element-305">This module, written for students in "The Environments of the Organization," provides students with a structured exercise for incorporating the feedback they have received on their <emphasis>Ethics Bowl</emphasis> presentation.  The Ethics Bowl provides students with the opportunity to practice integrating ethical and social considerations into an analysis of real world and realistic business cases.  While it resembles a debate format, it is actually much more.  First, a presenting team telescopes its case analysis into a 7 minute presentation.  Another team comments on the presenting team's presentation, an activity that requires active listening rather than rebuttal skills.  The presenting team concludes by responding to the commentary (which requires further clarification of their position) and answering questions put by the class and the judges.  An in depth written analysis gives students a chance to reflect on their Ethics Bowl experience and respond to the questions and comments of their classmates and teachers.  The group self evaluation provides students with an opportunity to reflect on the challenges it faced throughout the Ethics Bowl and assess the practices it developed to respond to these challenges.  This module describes the Ethics Bowl, provides suggestions for carrying out the presentation and commentary, and sets forth templates for the in depth analysis and group self-evaluation.  A media file allows students to download the cases for the current semester for study and preparation.  More information on the Engineering Ethics Bowl carried out at UPRM can be found in Jose A Cruz-Cruz, William J. Frey, and Halley D. Sanchez, "The Ethics Bowl in Engineering Ethics at the University of Puerto Rico - Mayaguez" in Teaching Ethics 4(3): 15-32.</para></section>
+		<section id="eip-771"><title>Toysmart</title><section id="eip-132"><title>Toysmart Scenarios</title><list id="eip-812"><title>David Lord's Decision</title><item>You are David Lord, a former employee of Holt Educational Outlet, a manufacturer of educational toys located in Waltham, Mass.  Recently, you have joined with Stan Fung of Zero Stage Capital, a venture capital firm to buy out Holt Educational Outline.  After changing its name to Toysmart, you and Fung plan to transform this brick and mortar manufacturer of educational toys into an online firm that will link customers to a vast catalogue of educational, high quality toys.  Designing a website to draw in toy customers, linking to information on available toys, setting up a toy distribution and shipping system, and implementing features that allow for safe and secure online toy purchases will require considerable financing.  But, riding the crest of the dot-com boom, you have two promising options.  First, a venture capital firm has offered you $20,000,000 for website development, publicity, and other services.  Second, Disney has offered the same amount for financing, but has added to it an additional $25,000,000 in advertising support.  Disney has a formidable reputation in this market, a reputation which you can use to trampoline Toysmart into prominence in the growing market in educational toys.  However, Disney also has a reputation of micro-managing its partners.  Develop a plan for financing your new dot-com.</item>
+
+<item>What are Toysmart values?  What are Disney values?  Would Disney respect Toysmart’s values?</item>
+
+<item>What synergies could result from working with Disney?  For example, could you share information on customers?  You could feed your customer profiles to Disney in exchange for their customer profiles.  What kind of data managing technology would be required for this?  What ethical problems could arise from transferring customer identifying information to third parties?</item>
+
+<item>What kind of commitment would you be willing to make to Disney in terms of product and sales? How should Disney reciprocate? For example, how long should they stick with you through sales that fall short of projections?</item>
+</list><list id="eip-223"><title>Blackstone's Decision</title><item>You work for Blackstone, "an 18-person software business."  You have been asked by Toysmart to provide software the following functions: (1) designing a webpage that would attract customers and communicate Toysmart Values, (2) advise Toysmart on its privacy and data security policy including whether to register with an online trust, security measures to protect customer data during online transactions, and measures to prevent unauthorized access to customer data while stored, and (3) a comprehensive online catalogue that would provide customers with access to educational toys from a variety of small busines manufacturers. An example of small toy manufacturers to which Toysmart should be linked is Brio Corporation which manufactures wooden toys such as blocks, trains, and trucks. Develop general recommendations for Toysmart around these three areas.</item>
+
+<item>(Information for this scenario comes from Laura Lorek, "When Toysmart Broke," http://www.zdnet.com/eweek/stories/general/0,1101,2612962,00.html. Accessed July 16, 2001. )</item>
+
+<item>Toysmart is a fairly new dot-com. While it is supported by Disney, it is still a risky venture. Should you ask them for advance payment for whatever services you render?  What kind of policies does your company have for identifying and assessing financial risk? </item>
+
+<item>What kind of privacy and data security policy should you recommend to Toysmart?  What kind of values come into conflict when a company like Toysmart develops and implements  privacy and data security measures?  (Use your STS description to answer this question.)</item>
+ 
+<item>Should Toysmart become bankrupt, their data base would turn into a valuable asset.  What recommendations should you make to help Toysmart plan around this possibility?  What values come into conflict when planning to dispose of assets during bankruptcy proceedings?  What kind of obligations does a company take on during its operation that continue even after it has become bankrupt? </item>
+
+<item>Using the link provided with this module, visit the TRUSTe website and find its white paper on developing a privacy policy.  Evaluate this privacy policy for Toysmart.  What benefits can a strong privacy policy bring to a dot-com?  Should Toysmart work to qualify to display the TRUSTe seal on its website?  Examine TRUSTe procedures for transferring confidential customer PII to third parties?  What obligations will this create?  Would this over-constrain Toysmart?</item></list><list id="eip-571"><title>Liquidating Toysmart</title><item>You work for PAN Communications and have been providing advertising services for Toysmart. Now you find out that Toysmart has filed a Chapter 11 bankruptcy, and it has an outstanding debt to your company for $171,390.  As a part of this filing procedure, Toysmart has reported its assets at $10,500,000 with debts of $29,000,000. Toysmart creditors, including PAN Communications, have petitioned the Office of the United States Trustee for a "Creditors' Committee Solicitation Form."  This will allow for the formation of a committee composed of Toysmart creditors who decide on how the assets of the bankrupt firm will be distributed. You, because of your knowledge of bankruptcy and accounting procedures, have been asked to represent your company on this committee.  This bleak situation is somewhat remedied by the customer data base that Toysmart compiled during its operation.  It contains profiles of the PII (personal identifying information) of 260,000 individuals. Because selling educational toys is profitable, there is a good chance that this data base could be sold for up to $500 a profile to a third party.  Should you recommend selling this data base?  Should Toysmart customers be notified of the pending transfer of their PII and, if so, how should they be notified?</item>
+
+<item>Constraints: (a). As a member of the Creditors' Committee, you have a fiduciary duty to Toysmart creditors in working to distribute fairly the remaining Toysmart assets. This would, all things being equal, lead to recommending selling the Toysmart customer data base.  (b)There are some provisions in the bankruptcy code that may require or allow overriding fiduciary duties given prior legal commitments made by Toysmart. These commitments, in the form of strong privacy guarantees made to customers by Toysmart on its webpage, may constitute an "executory contract." See the Legal Trail table in the Toysmart case narrative and also Larren M. Nashelsky, "On-Line Privacy Collides With Bankruptcy Creditors," New York Law Journal, New York Law Publishing Company, August 28, 2000.  (c) Finally, Nashelsky makes an interesting argument. While deontological considerations would require setting aside creditor interests and honoring Toysmart privacy promises, a justice-based argument would recommend a compromise. Bankruptcy proceedings start from the fact that harm (financial) has been done. Consequently, the important justice consideration is to distribute fairly the harms involved among the harmed parties. Harm distributions are correlated with benefit distributions. Because Toysmart customers benefited from Toysmart offerings, they should also bear a share of the harms produced when the company goes bankrupt. This requires that they allow the distribution of their PII under certain conditions.</item>
+
+<item>How do you balance your obligations to PAN with those to other Toysmart creditors as a member of the Creditors' Committee?</item>
+
+<item>How should you approach the conflict between honoring Toysmart promises and carrying out Creditor Committee fiduciary duties? Do you agree with Nashelsky's argument characterized above? </item>
+ 
+<item>Should the Bankruptcy Code be changed to reflect issues such as these? Should privacy promises be considered an “executory contract” that overrides the duty to fairly and exhaustively distribute a company's assets?</item>
+
+<item>Finally, what do you think about the FTC's recommendation? The Bankruptcy Court's response? The final accommodation between Toysmart and Buena Vista Toy Company?</item>
+</list></section><para id="eip-144"><title>Toysmart Arguments</title>Construct arguments for and against the selling of Toysmart’s customer data base to third parties.  Your arguments should consider the perspectives of both the customers (whose personal identifying information forms the content of this data base) and Toysmart’s creditors (who are responsible to their stockholders for recovering Toysmart’s debt).
+
+</para><list id="eip-410"><title>Toysmart Group Summary</title><item>Make and defend a decision to each Toysmart decision point.  Use the ethics and feasibility tests.</item>
+<item>Do a socio-technical system table on Toysmart?  How do you plan to integrate the fact that Toysmart is a cyber, not a "brick and mortar,"  corporation?</item>
+<item>Write out formulations of the Toysmart arguments outlined above.</item></list></section><section id="eip-372"><title>Biomatrix</title><list id="eip-175"><title>Biomatrix Decision Point</title><item>Biomatrix Decision Point Three: How far does free speech go?
+You work with a public service organization devoted to the defense of free speech, both off and online.  For this reason you immediately noticed a newspaper story that three individuals, Richard Costanzo, Raymond Costanzo, and Ephraim Morris, were found guilty in a summary judgment of defamation.  It seems they published, under 23 psuedonyms, some 16,000 messages that made negative claims against Biomatrix and its managers that they were unable to substantiate.</item>
+
+<item>The claims made by these individuals in their emails were pretty strong:</item>
+
+<item>Biomatrix's most popular product, Synvisc, has produced significant harmful side effects and the company has taken wrongful measures to suppress this information.  Synvisc is a manufactured substance that resembles the natural fluids that lubricate knee movements.  These fluids disappear with age producing a condition called osteoarthritis.  Synvisc has been presented as a highly promising treatment for this problem.</item>
+
+<item>They also accuse Biomatrix of covering up that fact that they are targets of potentially damaging lawsuits.</item>
+
+<item>These three individuals, who style themselves the BXM Police, also accuse the company of covering up negative, harmful information about their upcoming merger with Genzyme.  The messages claim that inside information reveals that the merger will never take place. </item>
+
+<item>The BXM police also accuse Biomatrix top management of having committed war crimes and acts of sexual harassment.</item>
+
+</list><list id="eip-826"><item>During pre-trial depositions, the accused were unable to substantiate any of these claims.  While the motives for posting these messages have never been made clear three stand out: revenge, short selling, and the perception that rules of defamation did not apply in cyber space.  You have been asked by your organization to contact the BXM Police and propose that they appeal this decision.  You and your organization think that there are strong legal and ethical arguments, based on the right to free speech, that need to be put forth in this case.  Your job in this decision point is to set forth these legal and moral arguments.  In other words, construct a comprehensive defense for the BXM Police.</item>
+
+<item>Important Considerations:</item>
+
+<item>EPIC (Electric Privacy Information Center) and the ACLU (American Civil Liberties Union) have presented an amici curiae (friend of the court brief) outlining their concerns about the use of John Doe lawsuits to pierce online anonymity.  Their concerns is that the same procedures could discourage whistle-blowing or lead to retaliation against whistle-blowers and other dissenters.</item>
+
+<item>Perhaps the strongest case for Free Speech is made by John Stuart Mill in On Liberty.  (a) Censorship is wrong when the opinion is true because this suppresses the truth.  (b) Censorship is wrong when the opinion is partially true because this suppresses part of the truth.  (c) In the deciding case, censorship is wrong when the opiion is false because this deprives the truth of the occasion to defend and clarify itself.  Do defamation lawsuits suppress free speech?</item>
+
+<item>Did Biomatrix and its management team suffer damages as a result of the Yahoo messages?  What is this damage?  What evidence proves that the damage was caused by the negative speech and not something else?  Who bore the burden of proof in the summary judgment against the BXM Police? </item>
+
+<item>The strongest argument the BXM Police offer for their actions is that they are not bound by rules of veracity and defamation while operating pseudonymously online.  Should we be held responsible for what we say online?  In the same way that we are held responsible off line?  Doesn't Yahoo's disclaimer to readers that they should not assume that what they read is true suffice to exculpate those who post false speech? </item>
+
+<item>It has been suggested that the BXM Police were motivated by greed.  Their speech was designed to lower the price of Biomatrix stock so they could profit from short selling it.  Does this change your defense?  There is also inconclusive evidence that they were not acting alone?  Does this change your defense?</item>
+</list><para id="eip-747"><title>Biomatrix Argument</title>A John Doe lawsuit was used in the Biomatrix case to uncover the names of the BXM Police, the Biomatrix cyber slanders.  Privacy interest groups argue that this represents a dangerous precedent because the same tool can be used against legitimate dissenters (such as whistle-blowers) who use anonymity to protect themselves against retaliation.  Construct arguments for and against the use of John Doe lawsuits and orient your arguments around the issue of free speech.  
+</para><list id="eip-523"><title>Biomatrix Group Summary</title><item>Identify, evaluate, and rank three solution alternatives on the Biomatrix decision point mentioned above.  Use the ethics and feasibility tests.</item>
+
+<item>Prepare a socio-technical system table on Biomatrix.  What role does Online Service Provider, Yahoo, play in this system?  How is freedom of speech covered in your table?  In the law section?  As an organizational procedure?  Under software, such as Yahoo Bulletin Board features?</item>
+
+<item>Ouline arguments tied to freedom of speech in favor of and against the use of John Doe lawsuits.</item></list></section><section id="eip-860"><title>Enron</title><list id="eip-80"><title>Enron Debate Scenario</title><item>You will find information on the Enron Case from two sources: Business and Society, 450-462 and cnx.org/content/m31972/latest.  The Connexions module condenses the case into eight important points and three cautionary tales. </item>
+
+<item>Lay formulated an exciting new idea: trading energy futures, that is, deregulating the energy market and trading energy futures in the same way that agriculture futures are traded. To bring about deregulation in the energy market, Kenneth Lay became a formidable Washington lobbyist who benefitted from close ties to the Bush family (President George H. W. Bush and President George W. Bush).  What are the ethical and risk implications of deregulating the energy industry and trading energy futures on the market?</item>
+
+<item>Skilling implemented a rank and yank performance evaluation system.  Each Enron employee was ranked in relation to his or her coworkers.  Then the bottom 15% were fired and replaced the next year by new hires.  This process then continued: every year at Enron, employees are ranked and the bottom 15% yanked.  The ranking process was based primarily on an adversarial procedure where your mentor advances your portfolio and a detractor pushes it back and advances that of another candidate.  The process terminates when the rankers get exhausted.  Skilling implemented this system because he believed in a philosophy called “Social Darwinism” where only the fittest survive.  (Social Darwinism is based on a misinterpretation of Darwin’s theory of evolution.)  What do you think about this personnel process both from the standpoint of Human Resources or Personnel and from an ethical standpoint? </item>
+
+<item>Enron developed "creative" accounting methods. Mark-to-market allowed them to declare future earnings expected from a project at the moment the deal is made. While good in the short term, this method quickly put Enron on an accelerating treadmill: to maintain the illusion of profitability they had to keep making deals and immediately declaring expected profits.  Enron also used Special Purpose Entities to distribute risk and secure needed loans at low interest rates.  SPEs were artificial corporations endowed with Enron assets like gas pipelines and energy contracts.  These assets made it possible for Enron to get low interest loans and generate needed cash flow.  The problem was that Enron used its stock to guarantee the loans given to the SPEs.  Thus, Enron had to continually make deals to appear profitable to keep its stock value rising, and we’re back to the accelerating treadmill.   Evaluate the practices of mark-to-market accounting and the use of SPEs to distribute risk and secure loans.  Are these practices unethical considered on their own terms?  Ethically evaluate Enron’s use of these accounting practices.  Use the three ethics tests.</item>
+</list><para id="eip-449"><title>Enron Arguments</title>Enron’s use of creative accounting and business tools (mark-to-market accounting and special purpose entities to distribute risk) could be termed deceptive.  But Malcom Gladwell argues that Enron was not at fault for deceiving its investors.  Instead of being a puzzle created when conspirators improperly conceal information, Enron was a mystery where all the needed information is publicly available but nobody has the foresight to interpret the information in the proper fashion.  (Gladwell points out that a group of students at Syracuse University studied Enron and recommended selling Enron stock long before the so-called experts reached the same conclusion.)  Construct arguments for and against the claim that Enron business practices were deceptive and therefore unethical.  Use your ethics tests..
+</para><list id="eip-555"><title>Enron Group Summary</title><item>Evaluate Enron practices using your ethics and feasibility tests.</item>
+<item>Prepare a socio-technical system table on Enron.  Go to m14025 (STSs) and make use of the STS table on power generation in Puerto Rico.</item>
+<item>Provide an argument for Gladwell's position that Enron was a mystery.  What does this say about Enron responsibility?  Provide a table for the position that Enron was a puzzle?  What does this say about Enron's responsibility?</item></list><para id="eip-950">Click on Bell: Business Ethics Links Library to find Enron's code of ethics.</para></section><section id="eip-361"><title>Nike</title><list id="eip-45"><title>Nike Scenario</title><item>Your textbook provides the following description of working conditions for a Nike suppliers located in Vietnam (p 512):</item>
+
+<item>“Workers who did not meet the aggressive production goals did not receive a bonus.  Failing to meet production goals three times resulted in the worker’s dismissal.  Workers were sometimes permitted to work additional hours without pay to meet production quotas.  Supervisors were strict, chastising workers for excessive talking or spending too much time in the restrooms.  Korean supervisors, often hampered by language and cultural barriers, sometimes resorted to hard-nosed management tactics, hitting or slapping slower workers.  Other workers in need of discipline were forced to stand outside the factory for long periods in the tropical sun.  The Vietnamese term for this practice was phoi nang, or sun-drying.”  Business and Society, 512</item>
+
+<item>Is Nike responsible (or co-responsible) for the actions described above that were committed by its supplier?  Explain your position by clarifying whether you are taking a shareholder or stakeholder view of corporate social responsibility.  Then outline a plan for how should Nike respond to a supplier that engages in the practices described above?
+</item>
+</list><para id="eip-539"><title>Nike Argument</title>Your module on corporate social responsibility outlines two different accounts of the target and scope of responsibility.  The stockholder view holds that the corporation is responsible only to its investors/owners.  Diverting resources from stockholders to other parties represents, according to Milton Friedman, “taxation without representation.”  On the other hand, the stakeholder view holds that the corporation as to balance different stakeholder interests and rights; the corporation is responsible to all stakeholders and must treat them equally.  Werhane agrees with the stakeholder view but goes one step further; to properly understand stakeholder responsibilities, the corporate manager must imagine the corporate stakeholder complex around each stakeholder taken successively as the center.  Argue for a stockholder approach to the responsibilities of Nike for the actions of its suppliers.  Argue for a stakeholder approach to the responsibilities of Nike for the actions of its suppliers.  Imagine the Nike stakeholder complex as it is seen from the standpoint of the Vietnamese workers depicted in the case above.  How should it respond to employee treatment from this perspective?
+</para><list id="eip-481"><title>Nike Group Summary</title><item>Identify social responsibility responses that Nike can take toward the Vietnam-based suppliers.  Evaluate them using the ethics and feasibility tests.</item>
+<item>Prepare a socio-technical system table of Nike.  What part or parts of the STS houses the concerns of the Vietnamese workers?  What changes can be made in this STS to better accommodate the basic interests of the Vietnamese employees?</item>
+<item>Respond to the Nike argument outlined above.</item></list><para id="eip-763">Click on Bell: Business Ethics Links Library to get information on the corporate social responsibility programs Nike has developed to respond to concerns about how suppliers treat employees.</para></section><section id="eip-713"><title>Hughes Aircraft</title><list id="eip-65"><title>Frank Saia Scenario</title><item>Frank Saia has worked at Hughes Aircraft for a long time.  Now he is faced with the most difficult decisions of his career.  He has been having problems in the environmental testing phase of his microchip manufacturing plant; the detailed nature of these tests has caused Hughes to be consistently late in delivering the chips to customers.</item>
+
+<item>Because of the time pressure to deliver chips, Saia has been working to make the production of chips more efficient without losing the quality of the product.  Chips are manufactured and then tested, and this provides two places where the process can bottle up.  Even though you might have a perfectly fine chip on the floor of the plant, it cannot be shipped without testing.  And, since there are several thousand other chips waiting to be tested, it can sit in line for a long time.  Saia has devised a method that allows testers to put the important chips, the “hot parts,” ahead of the others without disrupting the flow and without losing the chips in the shuffle.  He has also added a “gross leak” test that quickly tells if a chip in a sealed container is actually sealed or not.  Adding this test early in the testing sequence allows environmental testing to avoid wasting time by quickly eliminating chips that would fail a more fine-grained leak test later in the sequence.</item>
+
+<item>Because environmental testing is still falling behind, Saia’s supervisors and Hughes customers are getting angry and have begun to apply pressure.  Karl Reismueller, the director of the Division of Microelectronics at Hughes, has given Saia’s telephone number to several customers, whose own production lines were shut down awaiting the parts that Saia has had trouble delivering.  His customers are now calling him directly to say “we’re dying out here” for need of parts.</item>
+
+<item>Frank Saia has discovered that an employee under his supervision, Donald LaRue, has been skipping tests on the computer chips.  Since LaRue began this practice, they have certainly been more on time in their shipments.  Besides, both LaRue and Saia know that many of the “hot” parts are actually for systems in the testing phase, rather than for ones that will be put into active use.  So testing the chips for long-term durability that go into these systems seems unnecessary.  Still, LaRue was caught by Quality Control skipping a test, and now Saia needs to make a decision.  Upper management has provided no guidance; they simply told him to “handle it” and to keep the parts on time.</item>
+
+<item>He can’t let LaRue continue skipping tests, or at least he shouldn’t let this skipping go unsupervised.  LaRue is a good employee, but he doesn’t have the science background to know which tests would do the least damage if they were skipped.  He could work with LaRue and help him figure out the best tests to skip so the least harm is done.  But getting directly involved in skipping the tests would mean violating company policy and federal law.</item>
+</list><list id="eip-522"><title>Margaret Goodearl  Scenario</title><item>supervisor, Donald LaRue, is also the current supervisor for environmental testing.  The group that LaRue and Goodearl together oversee test the chips that Hughes makes in order to determine that they would survive under the drastic environmental conditions they will likely face.</item>
+
+<item>Rigorous testing of the chips is the ideal, but some chips (the hot chips) get in line ahead of others.  Goodearl has found out that over the last several months, many of these tests are being skipped.  The reason: Hughes has fallen behind in the production schedule and Hughes upper management and Hughes customers have been applying pressure to get chip production and testing back on schedule.  Moreover, LaRue and others feel that skipping certain tests doesn’t matter, since many of these chips are being used in systems that are in the testing phase, rather than ones that will be put into active use. </item>
+
+<item>A few months after Margaret Goodearl started her new position, she was presented with a difficult problem.  One of the “girls” (the women and men in Environmental Testing at Hughes), Lisa Lightner, came to her desk crying.  She was in tears and trembling because Donald LaRue had forcefully insisted that she pass a chip that she was sure had failed the test she was running.</item>
+
+<item>Lightner ran the hermeticity test on the chips.  The chips are enclosed in a metal container, and one of the questions is whether the seal to that container leaks.  From her test, she is sure that the chip is a “leaker”—the seal is not airtight so that water and corrosion will seep in and eventually damage the chip.  She has come to Goodearl for advice.  Should she do what LaRue wants and pass a chip she knows is a leaker?</item>
+</list><para id="eip-183"><title>Hughes Argument</title>Margaret Goodearl problem could be specified as how to carry out effective dissent within the chip manufacture division at Hughes Aircraft.  What are the different ways in which employees can disagree with decisions made by their supervisors?  Construct arguments for and against whistle-blowing as the most ethical and effective way for Goodearl to manifest her concerns with LaRue’s test skipping.  Be sure to take into account the harms of whistle-blowing to the whistle-blower, the target of the whistle-blowing, and those who become “collateral damage” such as the whistle-blower’s coworkers.  </para><list id="eip-249"><title>Hughes Group Summary</title><item>Make a decision from Goodearl's perspective and justify it using the ethics and feasibility tests.</item>
+<item>Do a socio-technical system table on Hughes.  You may want to respond to the one Huff does at ComputingCases.org.  "Procedures" is an important category here.  Can you guess why?</item>
+<item>Respond to the Hughes argument section by offering arguments for and against whistle-blowing.  Again, the website, Computing Cases, is helpful here.  Be sure to give the material from the IEEE on carrying out dissent a careful look.</item></list></section><section id="eip-841"><title>Therac-25</title><list id="eip-364"><title>Fritz Hager's Decision Point</title><item>Therac-25 was a new generation medical linear accelerator introduced in 1983 for treating cancer.  It incorporated the most recent computer control equipment.  Therac-25’s computerization made the laborious process of machine setup much easier for operators, and thus allowed them to spend minimal time in setting up the equipment.  In addition to making setup easier, the computer also monitored the machine for safety.  With the advent of computer control, hardware based safety mechanisms were transferred to the software.  Hospitals were told that the Therac-25 medical linear accelerator had “so many safety mechanisms” that it was “virtually impossible” to overdose a patient.</item>
+
+<item>You are Fritz Hager a hospital physicist working for the East Texas Cancer Center in Tyler, Texas.  It has been brought to your attention that there is a strong probability that a patient—possibly two—has received an overdose of radiation during treatment with the Therac-25 medical linear accelerator.  Upon notifying your supervisors, East Texas Cancer Center officials, you have been told that you cannot talk with anyone outside of the hospital about this situation.  This even includes interviewing the first person who suffered the possible overdose.  You have three responsibilities in this situation: (1) as hospital physicist you are ultimately responsibility for any untoward results produced through the operation of the Therac-25 machine; (2) you are responsible for finding out what happened and, if the patient received an overdose, what caused this overdose; (3) you are also legally responsible, as an employee of the East Texas Cancer Center, for acting as the loyal agent of your supervisors who have told you unequivocally not to communicate with any outsiders concerning this issue.  What should you do? </item>
+
+<item>Design a course of action from Hager’s perspective given the situation described in the decision scenario.  First, broadly define Hager’s problem and explore its ethical dimensions.  Second, design a course of action for Hager that addresses the responsibilities mentioned just above.  Is it possible to carry out the first two responsibilities while keeping the matter “in house?”  Finally, include in your presentation a discussion of the values that you feel your solution embodies.</item>
+ 
+<item>(To help you with this scenario please consult with the interview with Fritz Hager at Computing Cases.)</item>
+</list><list id="eip-754"><title>Therac-25 Scenario: Are Operators Between a Rock and a Hard Place? </title><item>You have been operating a Therac-25 unit for several months now.  Even though the machine is new, rumors of problems have started to flow in from other places.  From your standpoint, the machine is quite nice.  For example, you are able to treat patients faster because the machine’s software automatically aligns the machine’s magnets and beams to produce the right kind of radiation treatment.  One machine combines three functions: x-ray treatment, electron treatment, and a harmless beam that lets you target the machine on exactly the right place on the patient.</item>
+
+<item>Four issues concern you.  First, the newest Therac machine has dismantled many hardware safety controls and replaced them with software controls.  AECL assures you that this is safer because hardware is more reliable.  But, as a hands-on kind of person, you like to have more control over the configuration and operation of the machine.</item>
+
+<item>Second, the patient and the machine are located in one room, but you carry out the radiation treatment from another room.  This is for your safety, since you would be over exposed to radiation if you were to stay with all of your patients during their treatment.  But your ability to monitor the treatment and the patient’s health depends on the audio and video monitoring systems.  You know from past experience at the hospital, that these systems break down and the hospital maintenance staff is sometimes slow in getting around to repairs.  You should decline to treat patients when these monitoring systems are not functioning but it is difficult for an operator to press this point with supervisors.</item>
+
+<item>Third, while initially the quicker patient turnover time allowed you to spend more time with each patient, there is now subtle but increasing pressure to fill in the additional time by treating more patients.  You understand the hospital’s concern to carry out treatments as efficiently and economically as possible.  But what kind of arguments can you give to your supervisors for treating fewer patients and spending more time with each?  Is it your job to advocate for patient interests in this context?</item>
+
+<item>Finally, the computer interface with the operator simply provides inadequate information.  When a treatment pause occurs, only a generic error message flashes on the screen.  It would, in your opinion, be better if you knew the specific reason for the treatment pause.  Furthermore, many of your counterparts have found ways to override the pauses.  This saves time and money since resetting the machine and reentering the data takes up valuable time.  Nevertheless, since you do not know the reason behind the pause, how do you know that the pause is not due to some dangerous machine state like an inadequate focusing of the photon beam?  Is this a problem you need to bring to the attention of your supervisors?</item>
+
+<item>Your hospital administration is holding a meeting.  Fifteen minutes has been allocated for a report from you and the other Therac-25 operators on how the machine has been performing to date.  Prepare a short informal presentation that makes these concerns known to the administrators.  Be sure to deal with the problems mentioned above but also take care to define your problems in terms your administrators would find clear and persuasive.  For each problem suggest some solutions, say 2 or 3.  Evaluate these solutions in ethical and non-ethical terms.  Rank them. </item>
+
+</list><para id="eip-217"><title>Therac-25 Arguments</title>From both Hager’s and the operators’ standpoints, the decision must be made whether to recommend the continued operation of the Therac-25 units while investigating into the complaints of possible machine-caused radiation overdoses or to stop operating the units until the cause of the complaints of radiation overdose are identified and verified.  Construct an argument for continued operation of the units while investigating.  Construct another argument that all operation should cease until all the complaints are thoroughly investigated.</para></section><section id="CSL">
+			<title>Where Does Your Group Find Its Case?</title>
+			<list id="id5328583" list-type="enumerated"><item>To prepare for the Ethics Bowl, your group will be given a set of 10 to 15 short scenarios.</item>
+				<item>At the beginning of the competition, your group will draw from a hat the case you will be presenting.  Accompanying this case is a question.  Your presentation will be tasked with answering this question in the context of the case.</item>
+<item>This case will also serve as the subject and focus of your written group analysis due on the final exam date during the final exam time period.  Your goal in your written analysis is to rework your answer to the question incorporating the feedback you received during the commentary of the other team and the questions asked by the judges.</item>
+<item>A template below will provide a step by step process for carrying out this process.</item> 
+			</list>
+			
+			
+			
+			
+			<table id="eip-540" summary="Table summarizing the steps of the group's in-depth case and question analysis."><title>In-Depth Group Case Analysis</title>
+<tgroup cols="3"><tbody>
+  <row>
+    <entry><emphasis>Activity</emphasis></entry>
+    <entry><emphasis>Description</emphasis></entry>
+    <entry><emphasis>Checklist</emphasis></entry>
+  </row>
+  <row>
+    <entry>Case Summary</entry>
+    <entry>A short, concise summary of your case. This should be more than a translation or paraphrasing of the case.</entry>
+    <entry/>
+  </row>
+  <row>
+    <entry>Recapitulation of Competition</entry>
+    <entry>A detailed account of the presentation your group gave during the Ethics Bowl that includes the following: (a) a clear, comprehensive, and concise summary of the other team's commentary; (b) an account of how your team responded to the other team's commentary; (c) an itemization of the questions asked and the answers composed by your team during the competition; (d) a reasoned statement of how your group responded to this feedback as well as the scoring of the competition.</entry>
+    <entry/>
+  </row>
+  <row>
+    <entry>Refined Analysis</entry>
+    <entry>A revised analysis of the case and question that incorporates the other team's commentary and the judge's response.</entry>
+    <entry/>
+  </row>
+  <row>
+    <entry>Multiple Viewpoints</entry>
+    <entry>A "devil's advocate" section consisting of a clear, full, and strong statement of a position opposed to that of your team's. This could incorporate the comments of the other team and judges or result from your group's own deliberation</entry>
+    <entry/>
+  </row>
+  <row>
+    <entry>Reaffirmation and Conclusion</entry>
+    <entry>A section defending your group's position against the devil's advocate position and concluding your case analysis.</entry>
+    <entry/>
+  </row>
+</tbody>
+
+
+
+
+
+</tgroup>
+</table>
+			<table id="eip-426" summary="This table summarizes the final, closeout group self evaluation. For more information, consult the Ethics of Team Work Module."><title>Final Group Self-Evaluation</title>
+<tgroup cols="3"><tbody>
+  <row>
+    <entry><emphasis>Activity</emphasis></entry>
+    <entry><emphasis>Description</emphasis></entry>
+    <entry><emphasis>Checklist</emphasis></entry>
+  </row>
+  <row>
+    <entry>Goal Restatement</entry>
+    <entry>Restate the Ethical and Practical Goals that your group developed at the beginning of its formation.</entry>
+    <entry/>
+  </row>
+  <row>
+    <entry>Goal Assessment</entry>
+    <entry>Provide a careful, documented assessment of your group’s success in meeting these goals. (Don’t just assert that “Our group successfully realized justice in all its activities this semester.” How did your group characterize justice in the context of its work? What specific activities did the group carry out to realize this value? What, among these activities, worked and what did not work?</entry>
+    <entry/>
+  </row>
+  <row>
+    <entry>Discussion of Obstacles</entry>
+    <entry>Identify obstacles, shortcomings or failures that you group experienced during the semester. How did these arise? Why did they arise? How did you respond to them? Did your response work? What did you learn from this experience?</entry>
+    <entry/>
+  </row>
+  <row>
+    <entry>Plan Assessment</entry>
+    <entry>Assess the plans you set forth in your initial report on how you intended to realize values and avoid pitfalls. How did these work? Did you stick to your plans or did you find it necessary to change or abandon them in the face of challenges? </entry>
+    <entry/>
+  </row>
+  <row>
+    <entry>Procedure Assessment</entry>
+    <entry>Discuss your group’s procedures and practices? How did you divide and allocate work tasks? How did you reach consensus on difficult issues? How did you ensure that all members were respected and allowed significant and meaningful participation? What worked and what did not work with respect to these procedures? Will you repeat them in the future? Would you recommend these procedures as best practices to future groups?</entry>
+    <entry/>
+  </row>
+  <row>
+    <entry>Lessons Learned</entry>
+    <entry>What did you learn from your experience working as a team this semester? What will require further reflection and thought? In other words, conclude your self-evaluation with a statement that summarizes your experience working together as a team this semester</entry>
+    <entry/>
+  </row>
+</tbody>
+
+
+
+
+
+</tgroup>
+</table>
+		</section>
+		<section id="Steps">
+			<title>In-Depth, Written Analysis: Step by Step</title>
+			
+			
+			<para id="id5329196"><title>Due Date</title>You will turn in your group written analyzes and group self evaluations during the final exam period.  This date is set by the university and announced two thirds of the way through the semester.</para>
+			
+			
+			<list id="eip-789" list-type="enumerated" number-style="arabic"><title>What is Required?</title><item>A short, concise summary of your case.  This should be more than a translation or paraphrasing of the case.</item>
+<item>A detailed account of the presentation your group gave during the Ethics Bowl that includes the following: (a) a clear, comprehensive, and concise summary of the other team's commentary; (b) an account of how your team responded to the other team's commentary; (c) an itemization of the questions asked and the answers composed by your team during the competition; (d) a reasoned statement of how your group responded to this feedback as well as the scoring of the competition.</item>
+<item>A revised analysis of the case and question that incorporates the other team's commentary and the judge's response.</item>
+<item>A "devil's advocate" section consisting of a clear, full, and strong statement of a position opposed to that of your team's.  This could incorporate the comments of the other team and judges or result from your group's own deliberation.</item>
+<item>A response to the devil's advocate position referring to your revised presentation.</item> </list>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		</section>
+		<section id="eip-545"><title>Ethics Bowl Rules and Structure</title><list id="eip-703" list-type="enumerated" number-style="arabic"><item>The moderator will begin the competition by flipping a coin to determine which team will present first.  If the team that calls wins the toss, they choose whether they or the other team go first.</item> 
+<item><emphasis>First Class</emphasis>: (A) Team 1 will have one minute to consult and seven minutes to give its initial presentation.  The presentation must be tied to the question/task given to it by the moderator.  (B) Team 2 has a minute to consult and seven minutes to give a commentary on Team 1's presentation.  This is much more than rebuttal or criticism; Team 2 can add to, agree with or disagree with all or part of Team 1's presentation.  Team 2 may close its commentary by posing a question to Team 1.  (C) Team 1 then has a minute to consult and five minutes to respond to Team 2's Commentary.  (D) Team 1 will answer questions posed by the judges and the peer review teams for 15 minutes.  Each participant formulates a question and is allowed a quick follow-up for clarification.  (E)The judges and peer review teams will score the first half of the competition but not announce the results.</item>
+<item><emphasis>Second Class</emphasis>: The same procedure will occur while reversing the roles between Teams 1 and 2. Thus, team 2 will present, team 1 comment, team 2 respond, and then team 2 will answer questions from the judges.  The peer review panels will add the scores for the second part of the competition but will hold off on announcing the results until Friday's class.</item> 
+<item>Debating teams may <emphasis>trade minutes</emphasis> from consulting to presenting.  For example, Team 1 may decide to take two minutes to consult when given their case and task.  This will mean that they have 6 minutes remaining in which to present, not seven.</item>
+<item><emphasis>Nota Bene</emphasis>: Debating teams and Peer Review teams are not allowed to bring notes into the competition.  You will be provided with paper to take notes once the competition starts.</item> 
+<item>Even though the national Ethics Bowl competition allows only one presenter, debating teams will be allowed to "pass the baton."  When one person finishes speaking, another can step into his or her place.  It is absolutely forbidden that more than one person speak at a time.  Also, the competing team's speaking time is limited to its commentary.  Once that is over, they are instructed to listen quietly.  Infractions will be followed first by a warning.  Second infractions will result in points being subtracted.</item></list></section><section id="eip-487"><title>Competition Time Line</title><para id="eip-311"/></section><list id="eip-367" list-type="enumerated" number-style="arabic"><title>Competition Time Line</title><item>Team 1 Presentation: One minute to consult, seven minutes to present.</item> 
+<item>Team 2 Commentary: One minute to consult, seven minutes to present.</item> 
+<item>Team 1 Response to Commentary: One minute to consult, five minutes to respond.</item> 
+<item>The question and answer session between Team 1 and the judges will last 15 minutes with the clock running. Each judge is permitted to ask a question and a short follow-up.</item> 
+<item>In the second round, the time line is the same while the debating teams change roles.</item>
+</list><section id="eip-293"><title>Advice for Presenting Teams</title><list id="eip-411"><item>Tell us what you are going to do, do it, and then tell us what you have done.  In other words, start your presentation with a summary, then proceed to explain the parts summarized in more detail, and conclude with another summary.  This will help the listening audience understand what you are trying to do.</item> 
+<item>Be professional, formal, and courteous.  Address yourself to the other team and to the judges.  Some presenters stand facing the judges and other team when delivering the initial presentation.</item> 
+<item>Be sure to address the scoring criteria in your presentation, commentary, response to commentary, and answers to judges' questions.  What do you and your team understand by intelligibility, ethical relevance, ethical irrelevance, and moral imagination/creativity?  Take time to listen to the other team and the judges to gauge whether they picked up on how your team has addressed the criteria.  If they miss aspects, repeat them later in the competition.  Don't be afraid to use phrases such as "As we said earlier in the presentation or in our commentary...."  During the commentary and the question and answer session you will find crucial clues into whether others have understood you as you wished to be understood.</item>
+<item>Be sure to thank the judges, other team, audience, and moderators before and after the competition.  Such formalities make it possible to penetrate more deeply into the practices of civility and reasonableness.</item>
+<item>Relax and have fun!  You may not have the opportunity to say everything you want to say.  One of the purposes behind this competition is to help you see just how hard it is to advocate for ethical positions.  We almost always have to do so under serious constraints such as time limits.  Also, remember that you have other forums for "getting it said," namely, your group self evaluation and your in-depth case analysis.  In these places you will be able to discuss these issues in more depth.</item></list><section id="eip-205"><title>Advice for Commenting Teams</title><list id="eip-56"><item>During the commentary, you and your team need to show that you have thought carefully about the case and question and that you have understood and assessed the presentation of the other team.</item>
+<item>This could be demonstrated by a point by point rebuttal of the other team.  But this is not necessary and not always advisable.</item>
+<item>You may agree with the presenting team.  Feel free to say so but then go onto say why by giving reasons that go beyond those offered by the presenting team.</item>
+<item>You may agree with the presenting team but base your agreement on different reasons.  Describe your agreement and then go onto explain your different reasons and offer grounds for taking these additional reasons into account.</item>
+<item>You may partially agree with the presenting team.  State where you agree and why.  Then go on to clarify and justify points of disagreement.</item>
+<item>To make your point, use ethical considerations such as the tests (harm, reversibility, publicity) and the SOV values.  This helps you to establish ethical irrelevance.  But don't go overboard.  This helps you to avoid ethical irrelevance.</item>
+<item>Always be courteous.  Begin by thanking the presenting team.  End by summarizing your commentary.  Thank your audience for listening.</item></list></section></section><section id="eip-599"><title>Templates for Presentation and Commentary</title><table id="eip-1" summary="This table provides a template for case presentations in the Ethics Bowl competition."><title>Presentation of Case</title>
+<tgroup cols="2"><tbody>
+  <row>
+    <entry><emphasis>Activity</emphasis></entry>
+    <entry><emphasis>Description</emphasis></entry>
+  </row>
+  <row>
+    <entry>Introductory Summary</entry>
+    <entry>In this part, quickly (1-2 minutes) restate the question and summarize your group's answer.  You may even outline how you will justify your answer.</entry>
+  </row>
+  <row>
+    <entry>Developed Presentation</entry>
+    <entry>In this part, explain and justify in detail the answer to your question, making references to the original question and summary.  Be sure to include ethical relevance (tests, values), avoid irrelevance, and provide a short account of how others might disagree with you.</entry>
+  </row>
+  <row>
+    <entry>Conclusion</entry>
+    <entry>Summarize your argument into 3 or 4 points.  Acknowledge different points of view but summarize reasons for your own.  Conclude by thanking the other team, judges, and audience.</entry>
+  </row>
+</tbody>
+
+</tgroup>
+</table><table id="eip-589" summary="This figure provides a template for how to comment on the other team's presentation during the Ethics Bowl."><title>Commentary on other team's Presentation</title>
+<tgroup cols="2"><tbody>
+  <row>
+    <entry><emphasis>Activity</emphasis></entry>
+    <entry><emphasis>Description&gt;</emphasis></entry>
+  </row>
+  <row>
+    <entry>Summary</entry>
+    <entry>Summarize the other team's presentation by boiling it down into 3 or 4 points.  Then comment on these points highlight areas of agreement and disagreement.  Be critical but also be respectful and fair in your criticism.  Have you fairly represented the other team's position or have you caricatured it?  Have you addressed your criticisms to the argument of the other team without personalizing them?</entry>
+  </row>
+  <row>
+    <entry>Conclusion</entry>
+    <entry>Conclude by thanking the other team and summarizing your agreement and disagreement with their key points.</entry>
+  </row>
+  <row>
+    <entry>Criteria</entry>
+    <entry>Be sure to address the four criteria in your Commentary: intelligibility, ethical relevance, ethical irrelevance, and moral imagination.</entry>
+  </row>
+</tbody>
+</tgroup>
+</table></section><section id="eip-76"><title>Scoring Criteria</title><list id="eip-685"><item><emphasis>Intelligibility</emphasis> includes three skills or abilities: (A) the ability to construct and compare multiple arguments representing multiple viewpoints; (B) the ability to construct arguments and provide reasons that are clear, coherent, and factually correct; (C) evidence of realizing the virtue of reasonableness by formulating and presenting value integrative solutions?</item> 
+<item><emphasis>Integrating Ethical Relevance</emphasis> includes three skills: (A) presenting positions that are clearly reversible between stakeholders; (B) identifying  and weighing key consequences of positions considered; (C) developing positions that integrate values like integrity, responsibility, reasonableness, honesty, humility, and justice.</item> 
+<item><emphasis>Avoiding ethical irrelevance</emphasis> involves focusing your comments on those aspects of the case that are directly relevant to the ethical import of the case and the question.  Complicating the presentation with commentary on legal, political, financial, or technical aspects of the case can pull your argument off its tracks unless you clearly show the audience how these matters relate to the ethical aspects of the case and question.</item> 
+<item><emphasis>Moral Imagination and Creativity</emphasis> demonstrate four skill sets: (A) ability to clearly formulate and frame ethical issues and problems; (B) ability to provide multiple framings of a given situation; (C) ability to identify and integrate conflicting stakeholders and stakes; (D) ability to generate solutions and positions that are non-obvious, i.e., go beyond what is given in the situation.</item></list></section><section id="Fmt">
+			<title>Format For In-Depth Analysis</title>
+			<para id="id5334174">1. Group, team-written projects are to be
+4-5 pages in length, double spaced, with standard 1-inch margins,
+and typewritten. This does not include documentation, appendices,
+and other notes.</para>
+			<para id="id5334184">It is essential that you carefully and
+fully document the resources that you have consulted. The most
+direct way to do this is to include numbered entries in a
+concluding section entitled, "Works Cited". These entries should
+provide complete bibliographical information according to standard
+form (Chicago Manual of Style or the MLA Manual of Style). Then
+insert the number of the entry in parenthesis in the text next to
+the passage that is based on it. (Example: "The self is a relation
+that relates itself to its own self…." (4) The number "4" refers to
+the forth item in the "Works Cited" section at the end of your
+paper.)</para>
+			
+			<list id="id5334250" list-type="bulleted">
+				<item>Quoting directly from other sources without documenting
+(footnote or bibliography) and/or without using quotation marks.
+Claiming that this is an appendix will not excuse this action.
+Claiming ignorance will not excuse this action.</item>
+				<item>Using the ideas or work of others without giving due credit
+or proper acknowledgment. "Proper acknowledgment”,” in this
+context, requires a standard bibliographical reference and the use
+of quotation marks if the material is being directly quoted.</item>
+				<item>If your paper relies exclusively or primarily on extensively
+quoted materials or materials closely paraphrased from the work of
+others, then it will not be credited as your work even if you
+document it. To make it your own, you have to summarize it in your
+own words, analyze it, justify it, or criticize it.</item>
+				<item>You will not be credited for material that you translate from
+English to Spanish unless you add to it something substantial of
+your own.</item>
+				<item>In general, what you appropriate from another source must be
+properly digested, analyzed, and expressed in your own words. If
+you have any questions on this, please ask me.</item>
+				<item>Any plagiarized document—one which violates the above
+rules—will be given a zero. You will be given a chance to make this
+up, and the grade on the make-up project will be averaged in with
+the zero given to the plagiarized document. Since this is a group
+grade, everyone in the group will be treated the same, even though
+the plagiarizer may be only one person. Each member of the group is
+responsible to assure that other members do not plagiarize in the
+name of the group. (Since the due date for the written project is
+late in the semester, this will probably require that I give the
+entire group, i.e., all members, an Incomplete.) Each member of the
+group will be held individually responsible in the above-described
+manner for the final content of the written report.</item>
+			</list>
+			
+			<para id="id5334400">The usual criteria concerning formal
+presentations apply when competing in the Ethics Bowl. Dress
+professionally.</para>
+			<para id="id5334409">You may write your group, team-written
+project in either Spanish or English.</para>
+			<para id="id5334416">All competitions will take place in the
+regular classroom and be conducted in Spanish.</para>
+		</section>
+		<section id="medfil">
+			<title>Media Files Beginning Spring 2007</title>
+			<para id="id5334426">
+These media files provide information on the ethics bowl and the follow-up activities including individual decision point summaries, in-depth case analysis, and group self-evaluation.  They have been integrated into the Business Ethics course during the Spring semester, 2008 and will apply from this date on into the future.</para><figure id="element-483"><title>Team Member Evaluation Form</title>
+				<media id="id21722528" alt=""><download src="TEAM MEMBER RATING SHEET.doc" mime-type="application/msword"/></media>
+				<caption>This file contains the team member rating sheet which each group member must fill out and turn in with his or her group project.</caption>
+			</figure>
+		</section>
+		<figure id="element-549"><title>Final Project and Group Self-Evaluation Rubrics</title>
+	<media id="id6704590" alt=""><download src="Be_Rubric_S07.doc" mime-type="application/msword"/></media>
+	<caption>This rubric will be used to grade the in-depth case analysis, the group self-evaluation, and the Ethics Bowl case summaries.</caption>
+</figure><figure id="element-845"><title>Basic Moral Concepts for Ethics Bowl</title><media id="id22491357" alt=""><download src="BMC_V2.doc" mime-type="application/msword"/></media>
+  <caption>Clicking on this figure will download the basic moral concepts that you will be integrating into the ethics bowl and your final in-depth case analysis.  You will be asked to show how you worked to integrate these concepts in your group self-evaluation.</caption></figure><figure id="element-321"><title>Intermediate Moral Concepts for Ethics Bowl</title>
+  <media id="id8739180" alt=""><download src="IMC_V2_97.doc" mime-type="application/msword"/></media>
+  <caption>Clicking on this future will open a table that summarizes the intermediate moral concepts that are at play in the four cases that are being used in the Ethics Bowl: Hughes, Therac, Toysmart, and Biomatrix.</caption></figure><para id="eip-432"><title>Ethics Bowl Cases for ADMI 4016: Environment of the Organization</title><media id="id8739181" alt=""><download src="Ethics Bowl Cases.docx" mime-type="application/msword"/></media></para><para id="eip-10"><title>Team 1 Score Sheet</title><media id="id8739182" alt=""><download src="Revised_ScoreSheet_T1_V2-1.docx" mime-type="application/msword"/></media></para><para id="eip-611"><title>Team 2 Score Sheet</title><media id="id8739183" alt=""><download src="Revised_ScoreSheet_T2_V2.docx" mime-type="application/msword"/></media></para><para id="eip-561"><title>Memo to 4016</title><media id="course-syl" alt="Memo to 4016">
+  <download mime-type="application/msword" src="Memo to 4016.docx"/>
+</media>
+</para><section id="cklst">
+			
+			
+			
+			<list id="element-393" list-type="bulleted"><title>Nota Bene</title>
+<item>After the Ethics Bowl, I will provide the class with general feedback and presentations on how to prepare the final project. When you submit your final report, I will be looking for how you responded to my comments and suggestions and to the comments and suggestions of the judges and the class.</item>
+	<item>Attendance is mandatory for all Ethics Bowl competitions. This is important because you will help one another by the comments and discussions that are generated by the presentations. Students not competing need to listen actively and respectfully to the presenting group. Keep in mind the twin standards of respect and professionalism. I will deduct points from the grades of groups and/or individuals who do not listen courteously to the presentations of others or who do not attend class during the presentation cycle.</item>
+</list>
+			
+			
+			
+			
+			<para id="id5334629"><title>Nota Bene</title>Each member will turn in a filled out
+Team Member Evaluation Form.  This form can be accessed through the media file listed above.  It is suggested that you do this anonymously by turning in your Team Member Evaluation Form in a sealed envelop with the rest of these materials.  You are to evaluate yourself along with your teammates on the criteria mentioned in the form.  Use the scale suggested in the form.</para>
+			<para id="element-232">Copy-paste the checklists on the in-depth ethics bowl case analysis and the group self evaluation that are provided in the tables above.  You and your group must examine the assembled materials you have prepared and check the items your group has completed. Then read, copy-paste, and sign the following pledge.</para><list id="element-204" list-type="bulleted"><title>Group Pledge</title>
+				<item><emphasis>I certify that these materials have been
+prepared by those who have signed below, and no one else. I certify
+that the above items have been checked and that those items with
+checkmarks indicate materials that we have turned in. I also
+certify that we have not plagiarized any material but have given
+due acknowledgment to all sources used. All who sign below and
+whose names are included on the title page of this report have
+participated fully in the preparation of this project and are
+equally and fully responsible for its results.</emphasis></item>
+				<item>Member signature here __________________________</item>
+				<item>Member signature here __________________________</item>
+				<item>Member signature here __________________________</item>
+				<item>Member signature here __________________________</item>
+				<item>Member signature here __________________________</item>
+				<item>Member signature here __________________________</item></list>
+		</section>
+	</content>
+</document>

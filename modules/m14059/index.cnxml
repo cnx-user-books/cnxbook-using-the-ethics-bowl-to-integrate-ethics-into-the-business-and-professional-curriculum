@@ -1,0 +1,60 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Rubrics for Exams and Group Projects in Ethics</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m14059</md:content-id>
+  <md:title>Rubrics for Exams and Group Projects in Ethics</md:title>
+  <md:abstract>A rubric is a device that serves two purposes.  First, it presents to students the standards in terms of which they will be graded on some kind of writing activity whether it be an essay test or a formal written paper.  Second, it is a grading tool that helps the instructor stay focused on the same set of standards when grading student essays.  This module presents rubrics used in assessing Good Computing Reports, In-Depth Case Study Analyses, and Engineering Ethics Midterm Exams and Computer Ethics Midterm Essay Exams.  Students will find these rubrics useful in studying for exams.  Faculty members can use these rubrics as templates for developing rubrics of their own. This module is being developed as a part of an NSF-funded project, "Collaborative Development of Ethics Across the Curriculum Resources and Sharing of Best Practices," NSF SES 0551779.</md:abstract>
+  <md:uuid>15a50102-f702-4f37-8543-dd158e50fb1a</md:uuid>
+</metadata>
+  <content>
+    <section id="eip-788"><title>Key to Links</title><list id="eip-152"><item>The first link connects to the Ethics Bowl assignment for engineering and business students.  It corresponds with the Ethics Bowl rubric displayed below.</item>
+<item>The second link connects to the module on developing reports on computing socio-technical systems.  It outlines an assignment where computing students carry out an analysis of the impact of a computing system on a given socio-technical system.  A rubric to this activity used in computer ethics classes is provided below.</item>
+<item>The third link to the Three Frameworks module corresponds to a rubric below that examines how well students deploy the frameworks on decision-making and problem-solving outlined by this module.</item>
+<item>The final link to Computing Cases provides the reader with access to Chuck Huff's helpful advice on how to write and use rubrics in the context of teaching computer ethics.</item></list><para id="eip-38"/></section><section id="eip-806"><title>Introduction</title><para id="eip-407"/></section><para id="element-134">This module provides a range of assessment rubrics used in classes on engineering and computer ethics.  Rubrics will help you understand the standards that will be used to assess your writing in essay exams and group projects.  They also help your instructor stay focused on the same set of standards when assessing the work of the class.  Each rubric describes what counts as exceptional writing, writing that meets expectations, and writing that falls short of expectations in a series of explicit ways.  The midterm rubrics break this down for each question.  The final project rubrics describe the major parts of the assignment and then break down each part according to exceptional, adequate, and less than adequate.  These rubrics will help you to understand what is expected of you as you carry out the assignment, provide a useful study guide for the activity, and familiarize you with how your instructor has assessed your work.</para><section id="eip-942"><title>Course Syllabi</title><para id="eip-346"><title>Syllabus for Environments of the Organization</title><media id="course-syl0" alt="Environments of the Organization">
+  <download mime-type="application/zip" src="ADMI4016_F10.docx"/>
+</media>
+</para><para id="eip-827"><title>Syllabus for Business, Society, and Government</title><media id="course-syl11" alt="Business, Government, Society Syllabus">
+  <download mime-type="application/zip" src="ADMI6055_F10.docx"/>
+</media>
+</para><para id="eip-514"/></section><figure id="element-93"><title>Business Ethics Course Syllabus</title>
+  <media id="id1170370912208" alt=""><download src="Business Ethics Spring 2007.doc" mime-type="application/msword"/></media>
+  <caption>Course Requirements, Timeline, and Links</caption>
+</figure><figure id="element-142"><title>Business Ethics Syllabus, Spring 2008</title>
+  <media id="id3784630" alt=""><download src="Syllabus_S08_W97.doc" mime-type="application/msword"/></media>
+  <caption>This figure contains the course syllabus for business ethics for spring semester 2008.</caption> </figure><figure id="element-42"><title>Business Ethics Syllabus Presentation</title>
+  <media id="id1170369710871" alt=""><download src="BE_Intro_F07.ppt" mime-type="application/vnd.ms-powerpoint"/></media>
+  <caption>Clicking on this figure will open the presentation given on the first day of class in Business Ethics, Fall 2007.  It summarizes the course objectives, grading events, and also provides a PowerPoint slide of the College of Business Administration's Statement of Values.</caption>
+ </figure><section id="eip-703"><title>Rubrics Used in Connexions Modules Published by Author</title><para id="eip-414"/></section><para id="element-857"><title>Ethical Theory Rubric</title>This first rubric assesses essays that seek to integrate ethical theory into problem solving.  It looks at a rights based approach consistent with deontology, a consequentialist approach consistent with utilitarianism, and virtue ethics.  The overall context is a question presenting a decision scenario followed by possible solutions.  The point of the essay is to evaluate a solution in terms of a given ethical theory.  </para><figure id="element-148"><title>Ethical Theory Integration Rubric</title>
+	<media id="id1170369159665" alt=""><download src="EE_Midterm_S05_Rubric.doc" mime-type="application/msword"/></media>
+	<caption>This rubric breaks down the assessment of an essay designed to integrate the ethical theories of deontology, utilitarianism, and virtue into a decision-making scenario.</caption></figure><para id="element-612"><title>Decision-Making / Problem-Solving Rubric</title>This next rubric assess essays that integrate ethical considerations into decision making by means of three tests, reversibility, harm/beneficence, and public identification.  The tests can be used as guides in designing ethical solutions or they can be used to evaluate decision alternatives to the problem raised in an ethics case or scenario.  Each theory partially encapsulates an ethical approach: reversibility encapsulates deontology, harm/beneficence utilitarianism, and public identification virtue ethics.  The rubric provides students with pitfalls associated with using each test and also assesses their set up of the test, i.e., how well they build a context for analysis. </para><figure id="element-839"><title>Integrating Ethics into Decision-Making through Ethics Tests</title>
+  <media id="id1170372305443" alt=""><download src="CE_Rubric_S06.doc" mime-type="application/msword"/></media>
+  <caption>Attached is a rubric in MSWord that assesses essays that seek to integrate ethical considerations into decision-making by means of the ethics tests of reversibility, harm/beneficence, and public identification.</caption> </figure><para id="element-982"><title>Ethics Bowl Follow-Up Exercise Rubric</title>Student teams in Engineering Ethics at UPRM compete in two Ethics Bowls where they are required to make a decision or defend an ethical stance evoked by a case study.  Following the Ethics Bowl, each group is responsible for preparing an in-depth case analysis on one of the two cases they debated in the competition.  The following rubric identifies ten components of this assignment, assigns points to each, and provides feedback on what is less than adequate, adequate, and exceptional.  This rubric has been used for several years to evaluate these group projects </para><figure id="element-203"><title>In-Depth Case Analysis Rubric</title>
+  <media id="id1170379599766" alt=""><download src="EE_FinalRubric_S06.doc" mime-type="application/msword"/></media>
+  <caption>This rubric will be used to assess a final, group written, in-depth case analysis.  It includes the three frameworks referenced in the supplemental link provided above.</caption> </figure><para id="element-892"><title>Rubric for Good Computing / Social Impact Statements Reports</title>This rubric provides assessment criteria for the Good Computing Report activity that is based on the Social Impact Statement Analysis described by Chuck Huff at www.computingcases.org.  (See link)  Students take a major computing system, construct the socio-technical system which forms its context, and look for potential problems that stem from value mismatches between the computing system and its surrounding socio-technical context.  The rubric characterizes less than adequate, adequate, and exceptional student Good Computing Reports.</para><figure id="element-988"><title>Good Computing Report Rubric</title>
+  <media id="id1170368597214" alt=""><download src="CE_FinalRubric_S06.doc" mime-type="application/msword"/></media>
+  <caption>This figure provides the rubric used to assess Good Computing Reports in Computer Ethics classes.</caption></figure><para id="element-935"><link url="http://www.computingcases.org">Computing Cases provides a description of a Social Impact Statement report that is closely related to the Good Computing Report.  Value material can be accessed by looking at the components of a Socio-Technical System and how to construct a Socio-Technical System Analysis.</link> </para><para id="delete_me">
+       <!-- Insert module text here -->
+    </para><figure id="element-284"><title>Business Ethics Midterm Rubric Spring 2008</title>
+  <media id="id1170380363820" alt=""><download src="Midterm Rubric Spring 2008.doc" mime-type="application/msword"/></media>
+  <caption>Clicking on this link will open the rubric for the business ethics midterm exam for spring 2008.</caption> </figure><section id="eip-914"><para id="eip-139">
+Insert paragraph text here.
+</para></section><section id="eip-629"><title>Study Materials for Business Ethics</title><para id="eip-320">This section provides models for those who would find the Jeopardy game format useful for helping students learn concepts in business ethics and the environments of the organization.  It incorporates material from modules in the Business Course and from Business Ethics and Society, a textbook written by Anne Lawrence and James Weber and published by McGraw-Hill.  Thanks to elainefitzgerald.com for the Jeopardy template.</para><para id="eip-277"><title>Jeopardy: Business Concepts and Frameworks</title><media id="Jeopardy1" alt="Jeopardy Game on Business Ethics Concepts">
+  <download mime-type="application/zip" src="Jeopardy1Template.pptx"/>
+</media>
+</para><para id="eip-549"><media id="Jeopardy2" alt="Stakeholders and CSR">
+  <download mime-type="application/zip" src="Jeopardy2.pptx"/>
+</media>
+</para><para id="eip-779"><title>Privacy, Property, Free Speech, Responsibility</title><media id="Jeopardy3" alt="Intermediate Moral Concepts">
+  <download mime-type="application/zip" src="Jeopardy_3.pptx"/>
+</media></para><para id="eip-541"><title>Jeopardy for EO Second Exam</title><media id="Jeopardy4" alt="EOJeopardy-4">
+  <download mime-type="application/zip" src="Jeopardy4a.pptx"/>
+</media></para><para id="eip-51"><title>Jeopardy 5</title><media id="Jeopardy5" alt="Jeopardy for EO-5">
+  <download mime-type="application/zip" src="Jeopardy5.pptx"/>
+</media></para><para id="eip-605"><title>Jeopardy 6</title><media id="Jeopardy6" alt="Jeopardy for EO-6">
+  <download mime-type="application/zip" src="Jeopardy6.pptx"/>
+</media></para><para id="eip-552"><title>Jeopardy7</title><media id="Jeopardy7" alt="Jeopardy for EO-7">
+  <download mime-type="application/zip" src="Jeopardy7.pptx"/>
+</media></para></section>   
+  </content>
+  
+</document>
